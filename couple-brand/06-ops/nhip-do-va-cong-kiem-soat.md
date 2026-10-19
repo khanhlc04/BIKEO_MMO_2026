@@ -1,4 +1,4 @@
-# Nhịp độ vận hành và cổng kiểm soát — Bi Kẹo Studio
+# Nhịp độ vận hành và cổng kiểm soát — Samesies
 
 Cửa sổ 60 ngày: **thứ 3 3/11/2026 → thứ 6 1/1/2027, chốt sổ thứ 7 2/1/2027**; trước đó là giai đoạn 0 tiền khởi động 19/10 → 2/11 (chi 0 ₫). Kỳ kế hoạch chạy **thứ 3 → thứ 2** (T1 = 3–9/11). Nguồn: `01-strategy/ke-hoach-60-ngay.md` §3, §6; mô hình `04-finance/build_model.py`; Sổ Lãi `07-tracking/so-lai-60-ngay.html` (đã đặt 3/11/2026 → 2/1/2027).
 
@@ -54,7 +54,7 @@ BIÊN BẢN HỌP TUẦN #__ — Chủ nhật __/__/2026 — Kỳ T__ (__/__ →
 1. ĐƠN: tổng __ (TikTok __ · Shopee __ · Zalo/IG __) · bình quân __ đơn/ngày · kỳ trước __
    Theo SKU: nỉ __ · thun __ · vòng __ · hộp quà __ · tỷ trọng kênh trực tiếp __% (kế hoạch 45% → 60%)
 2. HOÀN/HỦY: hoàn __ · hủy __ → __% trên đơn đã gửi (mục tiêu ≤10%; >15% kích hoạt luật xoay trục 3)
-3. VIEW: video đăng __ · tổng view __ · video cao nhất __ view (link: ______) · follower "bi ơi kẹo đói": __ (+__; mốc 235 ngày 19/10)
+3. VIEW: video đăng __ · tổng view __ · video cao nhất __ view (link: ______) · follower @samesies.studio: __ (+__; mốc 0 ngày 19/10, kênh mới)
 4. CAC kỳ = (chi Quảng cáo + Mẫu cho KOC) ÷ số đơn = ______ ÷ __ = ______ đ (cổng T2 ≤40.000; mô hình 30.000, hướng tới 20.000)
 5. TIỀN MẶT: số dư tài khoản + tiền mặt ______ · tiền sàn chờ về ______ · COD chưa đối soát ______ · cọc đã nhận cho lô tới ______
    Chi kỳ ______ (Nhập hàng __ · Bao bì __ · Vận chuyển __ · Quảng cáo __ · KOC __ · Công cụ __ · Khác __) · tổng chi lũy kế ______ / vốn 10.000.000
@@ -71,21 +71,21 @@ Giai đoạn 0 có 2 biên bản (#0 ngày 25/10, #0.5 ngày 1/11) chỉ dùng m
 ## 3. Bốn đường lợi nhuận lũy kế
 
 - **Tuyến tính** = đường trong trang Sổ Lãi: thẳng từ 0 ₫ ngày 3/11 tới 30.000.000 ₫ ngày chốt (= 500.000đ/ngày).
-- **Thận trọng / Cơ sở / Tăng tốc** = tôi tính từ tham số mô hình `04-finance/build_model.py`: đơn/ngày theo kịch bản × số ngày trong kỳ × lợi nhuận ròng 99.060đ/đơn (freeship mọi kênh) − chi phí cố định kỳ (T1→T9: 800k · 500k · 300k · 300k · 400k · 300k · 300k · 200k · 100k). Tổng khớp kế hoạch: Thận trọng 13,2 tr · Cơ sở 26,5 tr · Tăng tốc 45,7 tr (`01-strategy` §3).
+- **Thận trọng / Cơ sở / Tăng tốc** = tôi tính từ tham số mô hình `04-finance/build_model.py`: đơn/ngày theo kịch bản × số ngày trong kỳ × lợi nhuận ròng 99.060đ/đơn (freeship mọi kênh) − chi phí cố định kỳ (T1→T9: 800k · 500k · 300k · 300k · 400k · 300k · 300k · 200k · 100k). Tổng khớp kế hoạch: Thận trọng 11,9 tr · Cơ sở 25,1 tr · Tăng tốc 45,7 tr (`01-strategy` §3).
 
-| Kỳ | Kiểm vào | Ngày thứ | Tuyến tính (Sổ Lãi) | Thận trọng (1·2·2·3·3·4·4·3·3) | Cơ sở (1·3·4·5·6·7·8·6·5) | Tăng tốc (3·5·6·8·10·12·13·9·8) |
+| Kỳ | Kiểm vào | Ngày thứ | Tuyến tính (Sổ Lãi) | Thận trọng (0·1·2·3·3·4·4·3·3) | Cơ sở (1·2·3·5·6·7·8·6·5) | Tăng tốc (3·5·6·8·10·12·13·9·8) |
 |---|---|---|---|---|---|---|
-| T1 | T2 9/11 | 7 | 3,5 tr | −0,1 tr | −0,1 tr | 1,3 tr |
-| T2 | T2 16/11 | 14 | 7,0 tr | 0,8 tr | 1,5 tr | 4,2 tr |
-| T3 | T2 23/11 | 21 | 10,5 tr | 1,9 tr | 3,9 tr | 8,1 tr |
-| T4 | T2 30/11 | 28 | 14,0 tr | 3,6 tr | 7,1 tr | 13,4 tr |
-| T5 | T2 7/12 | 35 | 17,5 tr | 5,3 tr | 10,9 tr | 19,9 tr |
-| T6 | T2 14/12 | 42 | 21,0 tr | 7,8 tr | 15,4 tr | 27,9 tr |
-| T7 | T2 21/12 | 49 | 24,5 tr | 10,3 tr | 20,7 tr | 36,6 tr |
-| T8 | T2 28/12 | 56 | 28,0 tr | 12,2 tr | 24,6 tr | 42,7 tr |
-| T9 | T6 1/1 | 60 | 30,0 tr | 13,2 tr | 26,5 tr | 45,7 tr |
+| T1 | T2 9/11 | 7 | 3,5 tr | −0,8 tr | −0,1 tr | 1,3 tr |
+| T2 | T2 16/11 | 14 | 7,0 tr | −0,6 tr | 0,8 tr | 4,2 tr |
+| T3 | T2 23/11 | 21 | 10,5 tr | 0,5 tr | 2,6 tr | 8,1 tr |
+| T4 | T2 30/11 | 28 | 14,0 tr | 2,3 tr | 5,7 tr | 13,4 tr |
+| T5 | T2 7/12 | 35 | 17,5 tr | 3,9 tr | 9,5 tr | 19,9 tr |
+| T6 | T2 14/12 | 42 | 21,0 tr | 6,4 tr | 14,0 tr | 27,9 tr |
+| T7 | T2 21/12 | 49 | 24,5 tr | 8,9 tr | 19,3 tr | 36,6 tr |
+| T8 | T2 28/12 | 56 | 28,0 tr | 10,8 tr | 23,2 tr | 42,7 tr |
+| T9 | T6 1/1 | 60 | 30,0 tr | 11,9 tr | 25,1 tr | 45,7 tr |
 
-Cách đọc: đường Cơ sở nằm **dưới tuyến tính tới hết tháng 11** vì làm theo đơn và tăng dần — "dưới đường tuyến tính" trong tháng 11 là bình thường; **dưới đường Cơ sở** là tín hiệu phải hành động; **dưới Thận trọng** là báo động. Cổng T4 (lũy kế ≥5 triệu ngày 30/11) nằm giữa Thận trọng (3,6) và Cơ sở (7,1); luật ngày 30 (2/12, <5 triệu → tắt ads) cũng vậy.
+Cách đọc: đường Cơ sở nằm **dưới tuyến tính tới hết tháng 11** vì làm theo đơn và tăng dần — "dưới đường tuyến tính" trong tháng 11 là bình thường; **dưới đường Cơ sở** là tín hiệu phải hành động; **dưới Thận trọng** là báo động. Cổng T4 (lũy kế ≥5 triệu ngày 30/11) nằm giữa Thận trọng (2,3) và Cơ sở (5,7); luật ngày 30 (2/12, <5 triệu → tắt ads) cũng vậy.
 
 ## 4. Bảng cổng kiểm soát
 
@@ -95,9 +95,9 @@ Cột "Việc chính" và "Cổng" lấy đúng từ `01-strategy` §6; cột "K
 
 | Mục tiêu đến tối thứ 2 2/11 | Kiểm vào | Đạt? | Nếu trượt |
 |---|---|---|---|
-| Shop đã duyệt (TikTok Shop "Bi Kẹo Studio · Đồ đôi thiết kế" + Shopee) | T2 2/11 | | Vẫn mua mẫu 3/11; bán qua Zalo/IG trước |
+| Shop đã duyệt (TikTok Shop "Samesies · Đồ đôi thiết kế" + Shopee) | T2 2/11 | | Vẫn mua mẫu 3/11; bán qua Zalo/IG trước |
 | 3 nguồn hàng đã chốt giá (phôi, thêu/in, khắc) + dự phòng; giá thêu/khắc thật thay 25k/10k | T2 2/11 | | Không chuyển tiền cho nguồn chưa có báo giá bằng chữ |
-| ≥10 video đã đăng trên "bi ơi kẹo đói" | T2 2/11 | | Đăng bù 2 video/ngày từ 3/11 |
+| ≥10 video đã đăng trên @samesies.studio | T2 2/11 | | Đăng bù 2 video/ngày từ 3/11 |
 | ≥1 video >10.000 view | T2 2/11 | | Đổi hook theo `05-content`; không bật ads |
 | ≥20 người trong danh sách chờ | T2 2/11 | | Tuần 1 dồn bạn bè + group; cổng T1 vẫn giữ |
 
@@ -130,7 +130,7 @@ QUYẾT ĐỊNH XOAY TRỤC #1 — ngày 14 — thứ 2 16/11/2026
 Số thật: tổng đơn __ (Sổ Lãi, Đang giao + Đã giao) · video cao nhất __ view (link __)
 Kết luận: ☐ KHÔNG kích hoạt (giữ kế hoạch T3)   ☐ KÍCH HOẠT
 Nếu kích hoạt, từ thứ 3 17/11:
- (a) SKU chủ lực duy nhất: ☐ Hộp Quà Kỷ Niệm Bi Kẹo ☐ Vòng Bi Kẹo — lý do: ______ ; affiliate 15% cho SKU này; giảm ưu tiên 2 SKU còn lại trên sàn
+ (a) SKU chủ lực duy nhất: ☐ Hộp Quà Kỷ Niệm Samesies ☐ Vòng Samesies — lý do: ______ ; affiliate 15% cho SKU này; giảm ưu tiên 2 SKU còn lại trên sàn
  (b) Group Facebook đồ đôi: đăng ở 3 group (______, ______, ______) + 10 bạn bè giới thiệu (mã 30k cho người giới thiệu — đề xuất)
  (c) Hook video: "quà kỷ niệm [100 ngày / 1 năm] / quà Noel" thay "đồ đôi"; 5 video đầu kỳ T3 theo hook mới
 Người làm: (a) Bi  (b) Kẹo  (c) cả hai · Kiểm lại: thứ 2 23/11 — đạt nếu ≥4 đơn/ngày trong 3 ngày cuối kỳ
@@ -147,7 +147,7 @@ Nếu kích hoạt, ngay tối 2/12:
  - Tắt mọi chiến dịch ads; ngân sách ads còn lại ______ chuyển về dự phòng — không chi tới 2/1
  - Nguồn đơn còn lại: video tự nhiên 1–2/ngày + affiliate 15% + creator đợt 2 (chỉ người có tab trưng bày bán được)
  - Phôi dự trữ nhỏ (8 áo) vẫn giữ cho Noel; ngoài ra mua theo đơn 100%; không thêm mẫu tặng
- - Mục tiêu điều chỉnh: ☐ Cơ sở (26,5 tr) ☐ Thận trọng (13,2 tr) — chọn theo đơn/ngày thực tế 2 kỳ gần nhất: __
+ - Mục tiêu điều chỉnh: ☐ Cơ sở (25,1 tr) ☐ Thận trọng (11,9 tr) — chọn theo đơn/ngày thực tế 2 kỳ gần nhất: __
 Người làm: Bi (ads, tiền) · Kẹo (creator, nội dung) · Kiểm lại: thứ 2 7/12
 ```
 
@@ -166,7 +166,7 @@ Người làm: Kẹo (xác nhận) · Bi (sàn, vận đơn) · Kiểm lại sau
 
 ## 6. 10 lỗi vận hành phổ biến của shop đồ đôi nhỏ và cách phòng
 
-| # | Lỗi | Hậu quả (từ nghiên cứu) | Cách phòng của Bi Kẹo Studio |
+| # | Lỗi | Hậu quả (từ nghiên cứu) | Cách phòng của Samesies |
 |---|---|---|---|
 | 1 | **Giao trễ so với thời gian chuẩn bị đã đặt trên sàn** | Nguyễn Phúc Long bị phạt vì 2 ngày giao trễ, mất "Shop yêu thích" (mục i) | Thời gian chuẩn bị trên sàn = lịch lô + 1 ngày đệm; giờ chốt lô cứng; 2 xưởng thêu chốt trước 3/11; sau 12/12 đổi cam kết sang "nhận sau Noel" thay vì hứa liều (SOP j) |
 | 2 | **Ghi giá 1 món, khách tưởng giá/cặp rẻ** | Hủy đơn, đánh giá xấu, mất niềm tin | "Giá theo CẶP (2 áo)" ở tên sản phẩm, ảnh 1, dòng đầu mô tả và mọi tin báo giá (`02-brand`: luôn ghi giá theo cặp) |

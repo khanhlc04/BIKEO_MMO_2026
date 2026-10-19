@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""Mô hình tài chính 60 ngày — thương hiệu đồ couple BI KẸO STUDIO (vốn 10 triệu, KPI 30 triệu lợi nhuận ròng).
+"""Mô hình tài chính 60 ngày — thương hiệu đồ couple SAMESIES (vốn 10 triệu, KPI 30 triệu lợi nhuận ròng).
 Mọi giả định nằm trong dict A (ô màu xanh trong file, có ghi chú nguồn). Chạy: python3 build_model.py
 Nguồn số liệu: 00-research/_raw_*.md (sourcing, fees, market, competitors), khảo sát 19/10/2026.
 """
@@ -30,26 +30,26 @@ A = dict(
     deposit_share=0.25,     # phần doanh thu nhận ngay trong kỳ: cọc 50% đơn cá nhân hoá kênh trực tiếp (45% đơn) ≈ 22–25%
     # sản phẩm: (tên, giá niêm yết/bộ, giảm giá TB, giá vốn hàng/bộ, in-thêu-khắc/bộ, nhãn+hộp/bộ, tỷ trọng đơn, ghi chú nguồn)
     products=[
-        ("Áo nỉ Bi Kẹo — set 2 áo nỉ bông, in/thêu chữ cái + ngày kỷ niệm", 499_000, 0.08, 156_000, 50_000, 6_000, 0.30,
+        ("Áo nỉ Samesies — set 2 áo nỉ bông, in/thêu chữ cái + ngày kỷ niệm", 499_000, 0.08, 156_000, 50_000, 6_000, 0.30,
          "Nỉ bông trơn 65–87k/áo: Phương Yến HCM 75–87k (MOQ 1–3), Gấu Xám HN 65–69k (MOQ 3), THIDU 68–75k → 78k ×2; in decal nhỏ 15–23k (ThunViet) hoặc thêu ≈25k/áo (CẦN BÁO GIÁ) ×2; tag + túi 6k"),
-        ("Áo thun Bi Kẹo — set 2 áo cotton 100%, in/thêu chữ cái + ngày", 349_000, 0.08, 100_000, 50_000, 6_000, 0.25,
+        ("Áo thun Samesies — set 2 áo cotton 100%, in/thêu chữ cái + ngày", 349_000, 0.08, 100_000, 50_000, 6_000, 0.25,
          "Cotton 100%: AKUBA HCM 35–45k, Hà Đinh HN 55–65k → 50k ×2; in/thêu 25k ×2; tag + túi 6k"),
-        ("Vòng Bi Kẹo — cặp vòng titan/inox khắc tên + hộp + thiệp", 149_000, 0.00, 17_000, 20_000, 8_000, 0.25,
+        ("Vòng Samesies — cặp vòng titan/inox khắc tên + hộp + thiệp", 149_000, 0.00, 17_000, 20_000, 8_000, 0.25,
          "Vòng tay cặp 15–17k (thitruongsi 10/2026); khắc laser ≈10k/chiếc (CẦN BÁO GIÁ); hộp lắp ráp 3,5k + thiệp 1k + túi 2,3k + sticker 1,3k"),
-        ("Hộp Quà Kỷ Niệm Bi Kẹo — áo nỉ + vòng + thiệp viết tay + hộp quà", 599_000, 0.05, 173_000, 70_000, 22_000, 0.20,
+        ("Hộp Quà Kỷ Niệm Samesies — áo nỉ + vòng + thiệp viết tay + hộp quà", 599_000, 0.05, 173_000, 70_000, 22_000, 0.20,
          "Bằng áo nỉ (156k + 50k) + vòng (17k + 20k) + hộp quà Noel 16k + thiệp + túi 6k (Khánh Băng, thitruongsi)"),
     ],
     weeks=[("T1 3–9/11", 7), ("T2 10–16/11", 7), ("T3 17–23/11", 7), ("T4 24–30/11", 7),
            ("T5 1–7/12", 7), ("T6 8–14/12", 7), ("T7 15–21/12", 7), ("T8 22–28/12", 7), ("T9 29/12–1/1", 4)],
     scenarios={
-        "Thận trọng": [1, 2, 2, 3, 3, 4, 4, 3, 3],
-        "Cơ sở":      [1, 3, 4, 5, 6, 7, 8, 6, 5],
+        "Thận trọng": [0, 1, 2, 3, 3, 4, 4, 3, 3],
+        "Cơ sở":      [1, 2, 3, 5, 6, 7, 8, 6, 5],
         "Tăng tốc":   [3, 5, 6, 8, 10, 12, 13, 9, 8],
     },
     # chi phí cố định theo kỳ: mẫu quay nội dung + mẫu tặng KOC (5–8 cặp), đạo cụ, công cụ — không phụ thuộc số đơn
     fixed_weekly=[800_000, 500_000, 300_000, 300_000, 400_000, 300_000, 300_000, 200_000, 100_000],
     # tiền mua hàng theo kỳ (kịch bản Cơ sở): làm theo đơn nên ≈ giá vốn đơn trong kỳ; T1 là mẫu + phôi dự trữ
-    inventory_plan=[2_700_000, 3_500_000, 4_700_000, 5_900_000, 7_000_000, 8_200_000, 9_400_000, 7_000_000, 3_400_000],
+    inventory_plan=[2_700_000, 2_400_000, 3_500_000, 5_900_000, 7_000_000, 8_200_000, 9_400_000, 7_000_000, 3_400_000],
     allocation=[
         ("Mẫu + phôi dự trữ đợt 1 (6 áo nỉ, 6 áo thun, 20 cặp vòng, 10 nhẫn/móc khóa)", 2_500_000, "Mua ngày 3–5/11 ngay khi lương về; phôi còn lại mua theo đơn"),
         ("Thử in/thêu/khắc mẫu, tem nhãn", 500_000, "Báo giá xin trước 3/11; thử mẫu 3–6/11"),
@@ -87,7 +87,7 @@ def header(ws, row, labels, start_col=1):
 
 # ================================ 1. GiaDinh ======================================
 g = wb.active; g.title = "GiaDinh"; setw(g, [46, 15, 15, 16, 15, 15, 15, 15, 13, 70])
-put(g, "A1", "GIẢ ĐỊNH — BI KẸO STUDIO, 60 ngày (3/11/2026 → 2/1/2027; tiền khởi động 19/10–2/11 chi 0 ₫)", H1)
+put(g, "A1", "GIẢ ĐỊNH — SAMESIES, 60 ngày (3/11/2026 → 2/1/2027; tiền khởi động 19/10–2/11 chi 0 ₫)", H1)
 put(g, "A2", "XANH = ô nhập liệu (sửa được) · ĐEN = công thức · XANH LÁ = lấy từ sheet khác · nền VÀNG = giả định then chốt. Cột J ghi nguồn.", GREY)
 rows = [("Vốn ban đầu (₫)", A["capital"], VND, "Đề bài của chủ dự án"),
         ("Mục tiêu lợi nhuận ròng (₫)", A["target"], VND, "KPI bắt buộc"),

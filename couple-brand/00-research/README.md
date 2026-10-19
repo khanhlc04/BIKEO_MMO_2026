@@ -1,6 +1,6 @@
 # Nghiên cứu (19/10/2026) — 5 báo cáo gốc, mọi số có URL
 
-| File | Nội dung | Điều rút ra cho Bi Kẹo |
+| File | Nội dung | Điều rút ra cho Samesies |
 |---|---|---|
 | `_raw_nguyen_phuc_long.md` | 54 video của @nguyenphuclong258 đọc qua phụ đề tự động; timeline 60 ngày; số liệu tự công bố | "100 triệu" là doanh thu mục tiêu, chưa xác nhận; vốn 26 tr, 55 tr doanh thu sau 30 ngày bán, biên 18,5%. 10 nguyên tắc: tính biên trước, giết SKU, ngách hoá, traffic trước hàng, chất liệu truyền thông, bán cảm giác, TikTok cần video+live+KOC, ads ≤10% doanh thu, tăng AOV/mua lại, vận hành là thương hiệu |
 | `_raw_market.md` | Metric/YouNet: doanh số từng loại đồ đôi 2025, mùa vụ, hành vi, video viral, rủi ro thời tiết | Cá nhân hoá bán chạy nhất có bằng chứng; ngách "ngày kỷ niệm" trống; set quà cặp đôi 231 listing; mùa đông ấm → nỉ mỏng/thun; đỉnh thật là tháng 1–2 |

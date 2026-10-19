@@ -1,4 +1,4 @@
-# Sản phẩm, giá, giá vốn và nguồn hàng — Bi Kẹo
+# Sản phẩm, giá, giá vốn và nguồn hàng — Samesies
 
 Mọi giá vốn dưới đây là giá niêm yết công khai ngày 19/10/2026 (nguồn trong `00-research/_raw_sourcing.md`). Hai khoản **chưa có nguồn công khai** và đang là giả định: thêu tên/ngày (giả định 25.000đ/áo) và khắc laser vòng (giả định 10.000đ/chiếc). Hai báo giá này xin trong giai đoạn tiền khởi động (trước 3/11), không tốn tiền.
 
@@ -6,14 +6,14 @@ Mọi giá vốn dưới đây là giá niêm yết công khai ngày 19/10/2026 
 
 | SKU | Cấu phần | Giá niêm yết | Giá vốn/bộ | Lãi ròng/đơn (mô hình) | Lead time |
 |---|---|---|---|---|---|
-| **Áo nỉ Bi Kẹo** | 2 áo nỉ bông mỏng–vừa (đen/kem/be/rêu), thêu hoặc in nhỏ `chữ cái & chữ cái` + `dd.mm.yy`, tag + túi kraft + thiệp | **499.000** (ra mắt 459.000) | 212.000 = phôi 78k×2 + thêu/in 25k×2 + tag/túi 6k | 133.000 | làm 3–4 ngày + giao 1–3 |
-| **Áo thun Bi Kẹo** | 2 áo cotton 100% 220–250gsm, cùng cá nhân hoá | **349.000** (ra mắt 321.000) | 156.000 = phôi 50k×2 + 25k×2 + 6k | 68.000 | làm 3–4 ngày + giao 1–3 |
-| **Vòng Bi Kẹo** | Cặp vòng titan/inox khắc tên + hộp lắp ráp + thiệp + túi | **149.000** | 45.000 = vòng 17k + khắc 10k×2 + hộp/thiệp/túi 8k | 28.000 (đứng một mình) | làm 1–2 ngày + giao 1–3 |
+| **Áo nỉ Samesies** | 2 áo nỉ bông mỏng–vừa (đen/kem/be/rêu), thêu hoặc in nhỏ `chữ cái & chữ cái` + `dd.mm.yy`, tag + túi kraft + thiệp | **499.000** (ra mắt 459.000) | 212.000 = phôi 78k×2 + thêu/in 25k×2 + tag/túi 6k | 133.000 | làm 3–4 ngày + giao 1–3 |
+| **Áo thun Samesies** | 2 áo cotton 100% 220–250gsm, cùng cá nhân hoá | **349.000** (ra mắt 321.000) | 156.000 = phôi 50k×2 + 25k×2 + 6k | 68.000 | làm 3–4 ngày + giao 1–3 |
+| **Vòng Samesies** | Cặp vòng titan/inox khắc tên + hộp lắp ráp + thiệp + túi | **149.000** | 45.000 = vòng 17k + khắc 10k×2 + hộp/thiệp/túi 8k | 28.000 (đứng một mình) | làm 1–2 ngày + giao 1–3 |
 | **Hộp Quà Kỷ Niệm** | Áo nỉ set + Vòng + thiệp viết tay + hộp quà Noel | **599.000** (tiết kiệm 49k so với mua rời) | 265.000 | 176.000 | làm 3–4 ngày + giao 1–3 |
 
 Upsell cố định: mua áo thêm Vòng chỉ **+99.000** (lãi thêm ~60k/đơn, không thêm phí ship/bao bì).
 
-SKU phụ (chỉ để đủ 5 listing theo yêu cầu ưu đãi TikTok Shop và làm quà kèm): **Nhẫn inox cặp / móc khóa cặp Bi Kẹo** 99.000đ/cặp, giá vốn 16k + hộp/thiệp 8k = 24k (Shopsaigongiare); không đưa vào mô hình vì tỷ trọng nhỏ.
+SKU phụ (chỉ để đủ 5 listing theo yêu cầu ưu đãi TikTok Shop và làm quà kèm): **Nhẫn inox cặp / móc khóa cặp Samesies** 99.000đ/cặp, giá vốn 16k + hộp/thiệp 8k = 24k (Shopsaigongiare); không đưa vào mô hình vì tỷ trọng nhỏ.
 
 Quy tắc SKU (bài học "giết SKU" của Nguyễn Phúc Long): 4 màu × size S–3XL nhưng **không ôm size**; phôi mua theo đơn với MOQ 1–10 của xưởng. Chỉ giữ sẵn: 2 bộ mẫu mỗi SKU để quay và 20 cặp vòng.
 

@@ -1,11 +1,11 @@
-# Listing và caption — BI KẸO STUDIO
+# Listing và caption — SAMESIES
 
 **Mục lục**
 1. Quy ước chung cho mọi listing
-2. SKU 1 — Áo nỉ Bi Kẹo · 499k/cặp
-3. SKU 2 — Áo thun Bi Kẹo · 349k/cặp
-4. SKU 3 — Vòng Bi Kẹo · 149k/cặp
-5. SKU 4 — Hộp Quà Kỷ Niệm Bi Kẹo · 599k
+2. SKU 1 — Áo nỉ Samesies · 499k/cặp
+3. SKU 2 — Áo thun Samesies · 349k/cặp
+4. SKU 3 — Vòng Samesies · 149k/cặp
+5. SKU 4 — Hộp Quà Kỷ Niệm Samesies · 599k
 6. Bảng size dùng chung (nam/nữ riêng, S–3XL)
 7. Mẫu tin nhắn tự động trả lời để lấy tên + ngày + size (TikTok / Instagram / Zalo)
 8. Bio TikTok / Instagram (≤80 ký tự) và cấu trúc link bio
@@ -23,15 +23,15 @@
 
 ---
 
-## 2. SKU 1 — Áo nỉ Bi Kẹo · 499.000đ/cặp (20 cặp đầu 459.000đ)
+## 2. SKU 1 — Áo nỉ Samesies · 499.000đ/cặp (20 cặp đầu 459.000đ)
 
-**Tiêu đề TikTok Shop (≤80 · 76 ký tự):** `Áo Nỉ Đôi Bi Kẹo Set 2 Áo Sweater Nam Nữ Thêu Tên Ngày Kỷ Niệm Quà Người Yêu`
+**Tiêu đề TikTok Shop (≤80 · 76 ký tự):** `Áo Nỉ Đôi Samesies Set 2 Áo Sweater Nam Nữ Thêu Tên Ngày Kỷ Niệm Quà Người Yêu`
 
-**Tiêu đề Shopee (≤120 · 114 ký tự):** `Áo Nỉ Đôi Bi Kẹo Set 2 Áo Sweater Nam Nữ Thêu Chữ Cái + Ngày Yêu Nhau, Quà Tặng Người Yêu, Size S-3XL Giá Theo Cặp`
+**Tiêu đề Shopee (≤120 · 114 ký tự):** `Áo Nỉ Đôi Samesies Set 2 Áo Sweater Nam Nữ Thêu Chữ Cái + Ngày Yêu Nhau, Quà Tặng Người Yêu, Size S-3XL Giá Theo Cặp`
 
 **Mô tả sản phẩm:**
 
-ÁO NỈ BI KẸO — set 2 áo, giá 499.000đ/cặp (đã gồm 2 áo + thêu + túi kraft + thiệp). Ra mắt 3/11 — đặt trước nhận ưu đãi: 20 cặp đầu giá ra mắt 459.000đ + tặng thiệp viết tay, khắc tên vòng miễn phí khi mua kèm.
+ÁO NỈ SAMESIES — set 2 áo, giá 499.000đ/cặp (đã gồm 2 áo + thêu + túi kraft + thiệp). Ra mắt 3/11 — đặt trước nhận ưu đãi: 20 cặp đầu giá ra mắt 459.000đ + tặng thiệp viết tay, khắc tên vòng miễn phí khi mua kèm.
 
 Đồ đôi cho người ngại đồ đôi: không tim to, không gấu, không chữ LOVE. Chỉ chữ cái đầu của hai bạn + ngày yêu nhau, thêu cao 1–1,5cm ở ngực trái hoặc tay áo. Người lạ không nhận ra, người yêu thì có.
 
@@ -42,7 +42,7 @@
 - Giao hàng: thêu theo đơn 3–4 ngày, giao 1–3 ngày: nhận trong 4–7 ngày toàn quốc (SPX/GHN, có COD, freeship). Đặt trước 12/12 chắc chắn nhận trước Noel; Hà Nội và TP.HCM hỏa tốc nhận đơn tới 20/12.
 - Đổi size: 1 lần miễn phí trong 15 ngày, shop chịu ship hai chiều. Lỗi thêu/in: làm lại hoặc hoàn 100%, không hỏi lý do.
 - Trong hộp: 2 áo gấp trong túi niêm phong, túi kraft in logo hai viên kẹo, sticker, thiệp "Gửi hai đứa" có dòng viết tay.
-- Mua thêm Vòng Bi Kẹo khắc tên chỉ +99.000đ (giá lẻ 149.000đ) — chọn ở phân loại "Áo nỉ + Vòng".
+- Mua thêm Vòng Samesies khắc tên chỉ +99.000đ (giá lẻ 149.000đ) — chọn ở phân loại "Áo nỉ + Vòng".
 
 Shop do một cặp đôi thật dựng từ 10 triệu trong 60 ngày; mọi ảnh/video là tụi mình mặc thật. Tagline: Mặc chung một ngày.
 
@@ -63,17 +63,17 @@ Shop do một cặp đôi thật dựng từ 10 triệu trong 60 ngày; mọi �
 
 ---
 
-## 3. SKU 2 — Áo thun Bi Kẹo · 349.000đ/cặp (ra mắt 321.000đ)
+## 3. SKU 2 — Áo thun Samesies · 349.000đ/cặp (ra mắt 321.000đ)
 
-**Tiêu đề TikTok Shop (≤80 · 76 ký tự):** `Áo Thun Đôi Bi Kẹo Set 2 Áo Cotton Nam Nữ In Tên Ngày Yêu Nhau Quà Người Yêu`
+**Tiêu đề TikTok Shop (≤80 · 76 ký tự):** `Áo Thun Đôi Samesies Set 2 Áo Cotton Nam Nữ In Tên Ngày Yêu Nhau Quà Người Yêu`
 
-**Tiêu đề Shopee (≤120 · 120 ký tự):** `Áo Thun Đôi Bi Kẹo Set 2 Áo Cotton 100% 220gsm Nam Nữ In Chữ Cái + Ngày Yêu Nhau, Quà Tặng Người Yêu Bạn Gái, Size S-3XL`
+**Tiêu đề Shopee (≤120 · 120 ký tự):** `Áo Thun Đôi Samesies Set 2 Áo Cotton 100% 220gsm Nam Nữ In Chữ Cái + Ngày Yêu Nhau, Quà Tặng Người Yêu Bạn Gái, Size S-3XL`
 
 **Mô tả sản phẩm:**
 
-ÁO THUN BI KẸO — set 2 áo, giá 349.000đ/cặp (đã gồm 2 áo + in chữ + túi kraft + thiệp). Ra mắt 3/11 — đặt trước nhận ưu đãi: 20 cặp đầu giá ra mắt 321.000đ + tặng thiệp viết tay.
+ÁO THUN SAMESIES — set 2 áo, giá 349.000đ/cặp (đã gồm 2 áo + in chữ + túi kraft + thiệp). Ra mắt 3/11 — đặt trước nhận ưu đãi: 20 cặp đầu giá ra mắt 321.000đ + tặng thiệp viết tay.
 
-Phiên bản mặc quanh năm của áo nỉ Bi Kẹo: cho miền Nam, cho người thích gọn, cho ngân sách vừa. Vẫn một nguyên tắc: chữ cái hai bạn + ngày yêu nhau, nhỏ 1–1,5cm ở ngực trái hoặc tay áo, không hình to.
+Phiên bản mặc quanh năm của áo nỉ Samesies: cho miền Nam, cho người thích gọn, cho ngân sách vừa. Vẫn một nguyên tắc: chữ cái hai bạn + ngày yêu nhau, nhỏ 1–1,5cm ở ngực trái hoặc tay áo, không hình to.
 
 - Chất liệu: cotton 100% định lượng 220–250gsm (dày vừa, không mỏng lộ, không bí), form unisex.
 - Màu: Đen · Kem · Be · Xanh rêu; hai áo có thể khác màu.
@@ -82,7 +82,7 @@ Phiên bản mặc quanh năm của áo nỉ Bi Kẹo: cho miền Nam, cho ngư�
 - Thêu theo đơn 3–4 ngày, nhận trong 4–7 ngày toàn quốc, freeship, COD. Đặt trước 12/12 chắc chắn nhận trước Noel; HN/HCM hỏa tốc tới 20/12.
 - Đổi size 1 lần miễn phí trong 15 ngày, shop chịu ship. Lỗi in: làm lại hoặc hoàn 100%.
 - Trong hộp: 2 áo, túi niêm phong, túi kraft, sticker, thiệp viết tay.
-- Thêm Vòng Bi Kẹo khắc tên chỉ +99.000đ.
+- Thêm Vòng Samesies khắc tên chỉ +99.000đ.
 
 **5 điểm bán in trên ảnh:**
 1. `349k/CẶP — 2 áo cotton 100%, đã gồm in chữ`
@@ -95,15 +95,15 @@ Phiên bản mặc quanh năm của áo nỉ Bi Kẹo: cho miền Nam, cho ngư�
 
 ---
 
-## 4. SKU 3 — Vòng Bi Kẹo · 149.000đ/cặp
+## 4. SKU 3 — Vòng Samesies · 149.000đ/cặp
 
-**Tiêu đề TikTok Shop (≤80 · 76 ký tự):** `Vòng Tay Đôi Bi Kẹo Cặp Vòng Titan Khắc Tên Kèm Hộp Thiệp Quà Tặng Người Yêu`
+**Tiêu đề TikTok Shop (≤80 · 76 ký tự):** `Vòng Tay Đôi Samesies Cặp Vòng Titan Khắc Tên Kèm Hộp Thiệp Quà Tặng Người Yêu`
 
-**Tiêu đề Shopee (≤120 · 108 ký tự):** `Vòng Tay Đôi Bi Kẹo Cặp Vòng Titan Khắc Tên Theo Yêu Cầu Kèm Hộp + Thiệp, Quà Tặng Người Yêu Bạn Gái Kỷ Niệm`
+**Tiêu đề Shopee (≤120 · 108 ký tự):** `Vòng Tay Đôi Samesies Cặp Vòng Titan Khắc Tên Theo Yêu Cầu Kèm Hộp + Thiệp, Quà Tặng Người Yêu Bạn Gái Kỷ Niệm`
 
 **Mô tả sản phẩm:**
 
-VÒNG BI KẸO — cặp 2 vòng, giá 149.000đ/cặp (đã gồm khắc + hộp + thiệp + túi). Ra mắt 3/11 — đặt trước nhận ưu đãi: tặng thiệp viết tay; mua kèm áo chỉ +99.000đ và khắc tên miễn phí.
+VÒNG SAMESIES — cặp 2 vòng, giá 149.000đ/cặp (đã gồm khắc + hộp + thiệp + túi). Ra mắt 3/11 — đặt trước nhận ưu đãi: tặng thiệp viết tay; mua kèm áo chỉ +99.000đ và khắc tên miễn phí.
 
 Quà kỷ niệm nhỏ nhất của tụi mình: cặp vòng titan/inox khắc tên hoặc ngày, mỗi người một chiếc. Hợp làm quà 100 ngày, 1 năm, hoặc kèm áo đôi thành hộp quà.
 
@@ -125,15 +125,15 @@ Quà kỷ niệm nhỏ nhất của tụi mình: cặp vòng titan/inox khắc t
 
 ---
 
-## 5. SKU 4 — Hộp Quà Kỷ Niệm Bi Kẹo · 599.000đ (tiết kiệm 49k so với mua rời)
+## 5. SKU 4 — Hộp Quà Kỷ Niệm Samesies · 599.000đ (tiết kiệm 49k so với mua rời)
 
-**Tiêu đề TikTok Shop (≤80 · 79 ký tự):** `Hộp Quà Kỷ Niệm Bi Kẹo Áo Nỉ Đôi Thêu Tên + Vòng Khắc Tên + Thiệp Quà Người Yêu`
+**Tiêu đề TikTok Shop (≤80 · 79 ký tự):** `Hộp Quà Kỷ Niệm Samesies Áo Nỉ Đôi Thêu Tên + Vòng Khắc Tên + Thiệp Quà Người Yêu`
 
-**Tiêu đề Shopee (≤120 · 113 ký tự):** `Hộp Quà Kỷ Niệm Bi Kẹo Set Áo Nỉ Đôi Thêu Tên Ngày Yêu + Cặp Vòng Khắc Tên + Thiệp + Hộp, Quà Tặng Người Yêu Noel`
+**Tiêu đề Shopee (≤120 · 113 ký tự):** `Hộp Quà Kỷ Niệm Samesies Set Áo Nỉ Đôi Thêu Tên Ngày Yêu + Cặp Vòng Khắc Tên + Thiệp + Hộp, Quà Tặng Người Yêu Noel`
 
 **Mô tả sản phẩm:**
 
-HỘP QUÀ KỶ NIỆM BI KẸO — 599.000đ/hộp (áo nỉ đôi 499k + vòng đôi 149k = 648k nếu mua rời; hộp này 599k). Mở bán 10/11; đặt trước 12/12 chắc chắn nhận trước Noel.
+HỘP QUÀ KỶ NIỆM SAMESIES — 599.000đ/hộp (áo nỉ đôi 499k + vòng đôi 149k = 648k nếu mua rời; hộp này 599k). Mở bán 10/11; đặt trước 12/12 chắc chắn nhận trước Noel.
 
 Một hộp là đủ một món quà: 2 áo nỉ thêu chữ cái + ngày yêu nhau, 2 vòng titan khắc tên, thiệp "Gửi hai đứa" có dòng viết tay theo lời bạn gửi, tất cả trong hộp quà Noel. Nhận là tặng được ngay, không cần gói lại.
 
@@ -160,7 +160,7 @@ Một hộp là đủ một món quà: 2 áo nỉ thêu chữ cái + ngày yêu 
 
 Đo phẳng, đơn vị cm (ngang ngực × dài áo). **Xác nhận lại với xưởng phôi trước khi đăng** vì mỗi xưởng lệch 1–2cm.
 
-| Size | Áo nỉ Bi Kẹo | Áo thun Bi Kẹo | Cân nặng tham chiếu | Gợi ý nữ | Gợi ý nam |
+| Size | Áo nỉ Samesies | Áo thun Samesies | Cân nặng tham chiếu | Gợi ý nữ | Gợi ý nam |
 |---|---|---|---|---|---|
 | S | 50×66 | 48×64 | 40–52kg | 1m50–1m60, dưới 50kg | hiếm, dưới 52kg |
 | M | 53×68 | 51×66 | 52–62kg | 1m55–1m65, 50–58kg | 1m60–1m68, 52–60kg |
@@ -178,11 +178,11 @@ Mẹo in kèm: "Thích rộng: lên 1 size. Mua tặng: lấy áo cũ của ngư
 Mục tiêu của tin tự động: trả lời trong 0 giây, **nói giá ngay**, và xin đủ 4 thứ trong 1 tin: chữ cái/tên · ngày · size từng người · màu từng áo. Bi trả lời tay trong 1 giờ (8h–23h) để gửi preview.
 
 **Giai đoạn 0 — trước 3/11 (dùng chung TikTok/Instagram/Zalo, chưa có hàng, không nhận cọc):**
-> Chào bạn, Bi Kẹo Studio ra mắt **3/11** 🙂 Áo đôi thêu chữ cái + ngày yêu nhau: áo nỉ 499k/cặp · thun 349k/cặp · vòng khắc tên 149k/cặp. Đặt trước nhận ưu đãi: 20 cặp đầu giá ra mắt 459k (thun 321k) + tặng thiệp viết tay + khắc tên vòng miễn phí khi mua kèm.
+> Chào bạn, Samesies ra mắt **3/11** 🙂 Áo đôi thêu chữ cái + ngày yêu nhau: áo nỉ 499k/cặp · thun 349k/cặp · vòng khắc tên 149k/cặp. Đặt trước nhận ưu đãi: 20 cặp đầu giá ra mắt 459k (thun 321k) + tặng thiệp viết tay + khắc tên vòng miễn phí khi mua kèm.
 > Bạn để lại giúp: tên · Zalo/Instagram · sản phẩm quan tâm · chữ cái + ngày (nếu có). Không bắt buộc cọc; muốn giữ chỗ trong 20 cặp đầu thì cọc 50%. 3/11 tụi mình nhắn lại theo thứ tự đăng ký để gửi preview. Hoặc điền form ở link bio.
 
 **TikTok từ 3/11 (Seller Center → Tin nhắn → Tin chào mừng tự động; thêm 3 "Câu hỏi thường gặp" bên dưới: Giá / Size / Giao hàng):**
-> Chào bạn, Bi Kẹo Studio đây 🙂 Giá theo cặp: áo nỉ 499k · áo thun 349k · vòng 149k · Hộp Quà Kỷ Niệm 599k. Thêu/khắc theo đơn, nhận trong 4–7 ngày, đổi size 1 lần miễn phí 15 ngày.
+> Chào bạn, Samesies đây 🙂 Giá theo cặp: áo nỉ 499k · áo thun 349k · vòng 149k · Hộp Quà Kỷ Niệm 599k. Thêu/khắc theo đơn, nhận trong 4–7 ngày, đổi size 1 lần miễn phí 15 ngày.
 > Để tụi mình làm preview, bạn gửi giúp 4 dòng:
 > 1) Chữ cái hoặc tên hai bạn (vd: k & b)
 > 2) Ngày (vd: 14.02.25)
@@ -190,12 +190,12 @@ Mục tiêu của tin tự động: trả lời trong 0 giây, **nói giá ngay*
 > 4) Màu từng áo (đen / kem / be / rêu)
 > Gửi xong tụi mình trả preview trong 1 giờ (8h–23h), bạn duyệt rồi tụi mình mới thêu nhé.
 
-**Instagram @bikeo.studio (Cài đặt → Tin nhắn → Trả lời tức thì; thêm "Câu trả lời nhanh" với phím tắt `/gia`, `/size`, `/preview`):**
+**Instagram @samesies.studio (Cài đặt → Tin nhắn → Trả lời tức thì; thêm "Câu trả lời nhanh" với phím tắt `/gia`, `/size`, `/preview`):**
 > Hi, tụi mình là Bi và Kẹo 🙂 Áo đôi thêu chữ cái + ngày yêu nhau: áo nỉ 499k/cặp · thun 349k/cặp · vòng khắc tên 149k/cặp · Hộp Quà 599k. Đặt qua Instagram được tặng thiệp viết tay + khắc tên miễn phí.
 > Bạn nhắn giúp: chữ cái/tên – ngày – size từng người – màu từng áo (bảng size ở Highlight "Size"). Tụi mình gửi preview trong 1 giờ, bạn duyệt → cọc 50% → thêu → nhận trong 4–7 ngày (COD phần còn lại).
 
-**Zalo "Bi Kẹo Studio" (Zalo OA → Tin nhắn tự động khi khách nhắn lần đầu; hoặc Zalo cá nhân dùng "Tin nhắn nhanh"):**
-> Bi Kẹo Studio xin chào 🙂 Giá theo cặp: áo nỉ 499.000 · áo thun 349.000 · vòng 149.000 · Hộp Quà Kỷ Niệm 599.000. Đặt qua Zalo: tặng thiệp viết tay + khắc tên miễn phí, cọc 50% sau khi duyệt preview, còn lại COD.
+**Zalo "Samesies" (Zalo OA → Tin nhắn tự động khi khách nhắn lần đầu; hoặc Zalo cá nhân dùng "Tin nhắn nhanh"):**
+> Samesies xin chào 🙂 Giá theo cặp: áo nỉ 499.000 · áo thun 349.000 · vòng 149.000 · Hộp Quà Kỷ Niệm 599.000. Đặt qua Zalo: tặng thiệp viết tay + khắc tên miễn phí, cọc 50% sau khi duyệt preview, còn lại COD.
 > Bạn gửi giúp 4 thông tin: (1) chữ cái/tên hai bạn (2) ngày (3) size từng người hoặc cân nặng/chiều cao (4) màu từng áo. Có ngay preview trong 1 giờ (8h–23h). Hạn Noel: đặt trước 12/12 chắc chắn nhận trước Noel.
 
 **Tin tay sau khi có đủ thông tin (dùng chung 3 kênh):**
@@ -210,17 +210,17 @@ Mục tiêu của tin tự động: trả lời trong 0 giây, **nói giá ngay*
 
 **Bio giai đoạn 0, 19/10 → 2/11 (TikTok + Instagram, ≤80):** `Bi & Kẹo mở shop áo đôi thêu ngày yêu nhau. Ra mắt 3/11 — đặt trước ở 👇`
 
-**Bio TikTok từ 3/11 (kênh "bi ơi kẹo đói", ≤80):** `Bi & Kẹo. Áo đôi thêu ngày yêu nhau, giá theo cặp, nhận trong 4–7 ngày. Đặt ở 👇`
+**Bio TikTok từ 3/11 (kênh @samesies.studio, ≤80):** `Bi & Kẹo. Áo đôi thêu ngày yêu nhau, giá theo cặp, nhận trong 4–7 ngày. Đặt ở 👇`
 
-**Bio Instagram @bikeo.studio từ 3/11 (≤80):** `Mặc chung một ngày. Áo đôi thêu tên + ngày yêu · từ 149k/cặp · đặt tại 👇`
+**Bio Instagram @samesies.studio từ 3/11 (≤80):** `Mặc chung một ngày. Áo đôi thêu tên + ngày yêu · từ 149k/cặp · đặt tại 👇`
 
 **Dự phòng ngắn (≤80):** `Đồ đôi tối giản, thêu ngày yêu nhau. 499k/cặp áo nỉ · 349k/cặp thun. Link 👇`
 
-**Link bio** (1 trang, làm bằng công cụ link-in-bio miễn phí; tên hiển thị "Bi Kẹo Studio", ảnh đại diện logo hai viên kẹo). Giai đoạn 0 (trước 3/11) chỉ có 2 nút: **Danh sách chờ — ra mắt 3/11** (Google Form 4 dòng: tên · Zalo/Instagram · sản phẩm quan tâm · chữ cái + ngày) và **Zalo Bi Kẹo Studio**. Từ 3/11, thứ tự nút, trên xuống:
-1. **Đặt áo thêu tên qua Zalo** (tặng thiệp viết tay + khắc tên miễn phí) → link Zalo "Bi Kẹo Studio". Nút đầu tiên vì kênh trực tiếp là kênh 0% phí.
-2. **Nhắn Instagram @bikeo.studio** → link DM.
-3. **TikTok Shop "Bi Kẹo Studio"** → trang shop (áo nỉ 499k · thun 349k · vòng 149k · hộp quà 599k).
-4. **Shopee bikeo.studio** → link shop.
+**Link bio** (1 trang, làm bằng công cụ link-in-bio miễn phí; tên hiển thị "Samesies", ảnh đại diện logo hai viên kẹo). Giai đoạn 0 (trước 3/11) chỉ có 2 nút: **Danh sách chờ — ra mắt 3/11** (Google Form 4 dòng: tên · Zalo/Instagram · sản phẩm quan tâm · chữ cái + ngày) và **Zalo Samesies**. Từ 3/11, thứ tự nút, trên xuống:
+1. **Đặt áo thêu tên qua Zalo** (tặng thiệp viết tay + khắc tên miễn phí) → link Zalo "Samesies". Nút đầu tiên vì kênh trực tiếp là kênh 0% phí.
+2. **Nhắn Instagram @samesies.studio** → link DM.
+3. **TikTok Shop "Samesies"** → trang shop (áo nỉ 499k · thun 349k · vòng 149k · hộp quà 599k).
+4. **Shopee samesies.studio** → link shop.
 5. **Bảng size nam/nữ S–3XL** → ảnh bảng size (mục 6).
 6. **Form đặt hàng nhanh** (Google Form 5 câu: chữ cái/tên · ngày · size từng người · màu · SĐT/Zalo) → tự chảy về sheet Sổ Lãi để không sót đơn.
 Dòng mô tả dưới cùng: "Thêu theo đơn, nhận trong 4–7 ngày · đổi size 1 lần miễn phí 15 ngày · xem preview trước khi thêu · đặt trước 12/12 chắc chắn nhận trước Noel."

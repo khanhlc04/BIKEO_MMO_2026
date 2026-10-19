@@ -1,9 +1,9 @@
-# Chính sách công khai, thuế & pháp lý, nhân sự — Bi Kẹo Studio
+# Chính sách công khai, thuế & pháp lý, nhân sự — Samesies
 
 **Mục lục**
 1. Chính sách công khai — bản đầy đủ (tin ghim Zalo, Giới thiệu Facebook, highlight Instagram; đăng từ 22/10)
 2. Bản rút gọn 6 dòng (mô tả sản phẩm, bio)
-3. Xử lý đổi/trả theo quy định sàn — cách Bi Kẹo Studio làm
+3. Xử lý đổi/trả theo quy định sàn — cách Samesies làm
 4. Thuế & pháp lý cho cá nhân bán hàng (tóm tắt từ nghiên cứu — không phải tư vấn pháp lý)
 5. Nhân sự: hai người, thuê theo giờ, quy tắc tiền, quy tắc "yêu nhau mà làm chung"
 
@@ -11,9 +11,9 @@
 
 ## 1. Chính sách công khai (bản đầy đủ)
 
-> **Bi Kẹo Studio · Đồ đôi thiết kế — đồ đôi kỷ niệm, làm theo đơn.** Đây là cách tụi mình (Bi và Kẹo) làm việc; đọc 2 phút để hai đứa nhận đúng thứ mình muốn.
+> **Samesies · Đồ đôi thiết kế — đồ đôi kỷ niệm, làm theo đơn.** Đây là cách tụi mình (Bi và Kẹo) làm việc; đọc 2 phút để hai đứa nhận đúng thứ mình muốn.
 
-**1. Giá ghi theo cặp.** Mọi giá trên shop là giá cho **2 áo** (hoặc 2 vòng): Áo nỉ Bi Kẹo **499.000đ/cặp** · Áo thun Bi Kẹo **349.000đ/cặp** · Vòng Bi Kẹo **149.000đ/cặp** · Hộp Quà Kỷ Niệm Bi Kẹo **599.000đ** (áo nỉ + vòng + thiệp viết tay + hộp quà). Mua áo thêm vòng chỉ **+99.000đ**. Giá bằng nhau ở TikTok Shop, Shopee, Instagram, Zalo; đặt trực tiếp qua Zalo/Instagram được tặng thiệp viết tay và khắc tên miễn phí.
+**1. Giá ghi theo cặp.** Mọi giá trên shop là giá cho **2 áo** (hoặc 2 vòng): Áo nỉ Samesies **499.000đ/cặp** · Áo thun Samesies **349.000đ/cặp** · Vòng Samesies **149.000đ/cặp** · Hộp Quà Kỷ Niệm Samesies **599.000đ** (áo nỉ + vòng + thiệp viết tay + hộp quà). Mua áo thêm vòng chỉ **+99.000đ**. Giá bằng nhau ở TikTok Shop, Shopee, Instagram, Zalo; đặt trực tiếp qua Zalo/Instagram được tặng thiệp viết tay và khắc tên miễn phí.
 
 **2. Cá nhân hoá và preview.** Mỗi set thêu/in chữ cái đầu của hai bạn và ngày kỷ niệm (ví dụ `b & k` · `14.02.25`), cao 1–1,5 cm, ở ngực trái hoặc tay áo. Tụi mình **gửi preview trước khi thêu**; bạn xem kỹ từng chữ, từng số rồi rep OK. **Sau khi thêu/in, không đổi được tên, ngày, màu, vị trí** — áo đã làm riêng cho hai bạn.
 
@@ -31,12 +31,12 @@
 
 **9. Ảnh và thông tin của hai bạn.** Tên, ngày, số điện thoại chỉ dùng để làm và giao đơn. Ảnh/video hai bạn mặc chỉ được đăng khi bạn đồng ý — gửi ảnh mặc chung được tặng mã 30.000đ cho lần sau.
 
-**10. Liên hệ.** TikTok "bi ơi kẹo đói" (TikTok Shop "Bi Kẹo Studio · Đồ đôi thiết kế") · Instagram @bikeo.studio · Zalo "Bi Kẹo Studio — đồ đôi kỷ niệm" · Shopee bikeo.studio · Facebook "Bi Kẹo Studio". Trả lời 8:00–22:00, thường trong 15 phút.
+**10. Liên hệ.** TikTok @samesies.studio (TikTok Shop "Samesies · Đồ đôi thiết kế") · Instagram @samesies.studio · Zalo "Samesies — đồ đôi kỷ niệm" · Shopee samesies.studio · Facebook "Samesies". Trả lời 8:00–22:00, thường trong 15 phút.
 
 ## 2. Bản rút gọn 6 dòng (dán vào mô tả sản phẩm và bio)
 
 ```
-BI KẸO STUDIO — giá ghi theo CẶP (2 áo) · thêu chữ cái đầu + ngày kỷ niệm của hai đứa
+SAMESIES — giá ghi theo CẶP (2 áo) · thêu chữ cái đầu + ngày kỷ niệm của hai đứa
 ✔ Gửi preview trước khi thêu — thêu xong không đổi tên/ngày
 ✔ Đổi size 1 lần miễn phí trong 15 ngày (chưa giặt, còn tag), ship tụi mình chịu
 ✔ Lỗi in/thêu: làm lại hoặc hoàn 100%, không hỏi lý do
@@ -44,11 +44,11 @@ BI KẸO STUDIO — giá ghi theo CẶP (2 áo) · thêu chữ cái đầu + ng�
 ✔ Zalo/IG: cọc 50% qua QR, còn lại thanh toán khi nhận, freeship
 ```
 
-## 3. Xử lý đổi/trả theo quy định sàn — cách Bi Kẹo Studio làm
+## 3. Xử lý đổi/trả theo quy định sàn — cách Samesies làm
 
 Nguồn quy định: `_raw_fees_unit_economics` §1.2, §1.3 (TikTok Shop, trang chính sách 23/09/2026), §2 (Shopee).
 
-| Tình huống | TikTok Shop | Shopee | Bi Kẹo Studio làm gì |
+| Tình huống | TikTok Shop | Shopee | Samesies làm gì |
 |---|---|---|---|
 | **Lỗi của shop** (sai nội dung, lỗi thêu, sai size/màu so preview) | Lỗi người bán → shop trả ship hoàn | Shop chịu cước hoàn tối đa 40.000đ/đơn | Chấp nhận trong 24h, làm lại hoặc hoàn 100% (mục 1.4), không tranh cãi; Sổ Lãi "Hoàn" + lý do "lỗi xưởng/lỗi mình" để sửa quy trình |
 | **Khách đổi ý** với hàng cá nhân hoá | Khách có 15 ngày từ "Đã giao" để yêu cầu, 10 ngày gửi về; "đổi ý" → nền tảng trả ship chiều về, shop chịu ship chiều đi tối đa 40.000đ (thường) / 20.000đ (hỏa tốc); **hoa hồng + phí giao dịch vẫn bị thu** trên đơn trả hàng/hoàn tiền từ 01/04/2026 | Theo luồng Shopee; shop chịu cước hoàn tối đa 40.000đ/đơn | Phản hồi trong 24h: giải thích hàng làm riêng theo preview đã OK; đề nghị đổi size (nếu vấn đề là size) hoặc giữ hàng + mã giảm; sàn vẫn duyệt trả → chấp nhận, hàng về làm mẫu/đạo cụ, ghi Hoàn |
@@ -70,7 +70,7 @@ Nguồn quy định: `_raw_fees_unit_economics` §1.2, §1.3 (TikTok Shop, trang
 | **Thuế khoán, lệ phí môn bài** | Bỏ từ 01/01/2026 | NQ 198/2025; NĐ 362/2025 |
 | **Hoá đơn điện tử** | Bắt buộc khi doanh thu > 1 tỷ/năm | NĐ 141/2026 |
 | **Mở shop cá nhân** | ≥18 tuổi, CCCD gắn chip, xác thực NFC (bắt buộc với người bán mới từ 01/07/2026), tài khoản ngân hàng trùng tên; **không cần giấy phép kinh doanh** | §1.3 |
-| **Hộ kinh doanh** | Không bắt buộc để mở shop; lệ phí đăng ký 50.000–100.000đ (HN, HCM, Đà Nẵng: 100.000đ). Nên cân nhắc khi: doanh thu tiến gần 1 tỷ/năm (phải xuất hoá đơn điện tử); khách cần hoá đơn; muốn lên TikTok Mall/Shopee Mall; đăng ký nhãn hiệu "Bi Kẹo Studio"; tách tài khoản ngân hàng kinh doanh. Đây là lý do thực tế, không phải yêu cầu pháp lý nêu trong nghiên cứu | §1.3, §6 |
+| **Hộ kinh doanh** | Không bắt buộc để mở shop; lệ phí đăng ký 50.000–100.000đ (HN, HCM, Đà Nẵng: 100.000đ). Nên cân nhắc khi: doanh thu tiến gần 1 tỷ/năm (phải xuất hoá đơn điện tử); khách cần hoá đơn; muốn lên TikTok Mall/Shopee Mall; đăng ký nhãn hiệu "Samesies"; tách tài khoản ngân hàng kinh doanh. Đây là lý do thực tế, không phải yêu cầu pháp lý nêu trong nghiên cứu | §1.3, §6 |
 
 **Áp vào 60 ngày (3/11/2026 → 2/1/2027):** doanh thu cao nhất ở kịch bản Tăng tốc ≈182 triệu (`01-strategy` §3) — xa ngưỡng 1 tỷ → **không cần hộ kinh doanh trong 60 ngày**. Việc phải làm: khai MST ở Seller Center trong giai đoạn 0; ghi Sổ Lãi đủ doanh thu kênh trực tiếp để kê khai 01/CNKD; giữ chứng từ khấu trừ 1,5% của sàn; 1 tài khoản ngân hàng trùng tên CCCD cho mọi dòng tiền shop.
 
@@ -81,7 +81,7 @@ Nguồn quy định: `_raw_fees_unit_economics` §1.2, §1.3 (TikTok Shop, trang
 | | Bi (chủ shop) | Kẹo (người yêu) |
 |---|---|---|
 | Chịu trách nhiệm chính | Tiền và Sổ Lãi; xưởng (phôi, thêu, khắc); vận đơn và giao vận; sàn (Seller Center, Shopee, BigSeller); QC lần 1; chuyển tiền ngày 3/11 | Chat và chốt đơn 4 kênh; form và preview; danh sách chờ và creator; thiệp viết tay và đóng gói; QC lần 2 (đọc nội dung); lịch nội dung |
-| Cả hai | Gương mặt của kênh "bi ơi kẹo đói"; quay lô cuối tuần; kiểm cổng tuần; quyết định xoay trục; biết làm việc của người kia ở mức "chế độ tối thiểu" (`sop-van-hanh.md` mục k) | |
+| Cả hai | Gương mặt của kênh @samesies.studio; quay lô cuối tuần; kiểm cổng tuần; quyết định xoay trục; biết làm việc của người kia ở mức "chế độ tối thiểu" (`sop-van-hanh.md` mục k) | |
 
 ### 5.2 Thuê theo giờ
 
@@ -104,4 +104,4 @@ Nguồn quy định: `_raw_fees_unit_economics` §1.2, §1.3 (TikTok Shop, trang
 - Tranh luận về một đơn/một quyết định: ghi vào biên bản chủ nhật, không quyết lúc nóng; việc gấp thì người phụ trách mảng đó quyết, người kia ghi ý kiến để bàn sau.
 - Lỗi là lỗi quy trình: sửa SOP, không sửa người. Mỗi lỗi mới → thêm 1 dòng vào checklist tương ứng.
 - Ai mệt nói sớm; người kia chạy "chế độ tối thiểu", hoãn nội dung, không hoãn lô đang hẹn khách.
-- Kể chuyện thật trên "bi ơi kẹo đói": tuần nào cũng một mốc thật (gọi xưởng, in hỏng, đơn đầu tiên, sổ lãi) — đó là nội dung bán hàng, và là cách hai người nhìn lại tuần mà không cãi nhau (`02-brand` mục Câu chuyện).
+- Kể chuyện thật trên @samesies.studio: tuần nào cũng một mốc thật (gọi xưởng, in hỏng, đơn đầu tiên, sổ lãi) — đó là nội dung bán hàng, và là cách hai người nhìn lại tuần mà không cãi nhau (`02-brand` mục Câu chuyện).

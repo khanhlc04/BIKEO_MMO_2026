@@ -1,6 +1,6 @@
-# SOP vận hành Bi Kẹo Studio — từ đơn đến giao
+# SOP vận hành Samesies — từ đơn đến giao
 
-Áp dụng từ **thứ 3 3/11/2026** (tuần 1 bán hàng; cửa sổ 60 ngày 3/11/2026 → 2/1/2027) cho hai người: **Bi** (chủ shop) và **Kẹo** (người yêu). Thương hiệu **Bi Kẹo Studio** (dạng ngắn Bi Kẹo). Trong giai đoạn 0 (19/10 → 2/11, chi 0 ₫) chỉ dùng mục a–c để nhận danh sách chờ và cọc; sản xuất bắt đầu từ lô đầu tiên tuần 1. Số phí/ship/thuế lấy từ `00-research/_raw_fees_unit_economics.md` và `_raw_sourcing.md`; giá vốn từ `03-products/`; mốc thời gian từ `01-strategy/` §6. Chỗ nào là quy tắc tôi đề xuất (không có trong nghiên cứu) ghi rõ "đề xuất".
+Áp dụng từ **thứ 3 3/11/2026** (tuần 1 bán hàng; cửa sổ 60 ngày 3/11/2026 → 2/1/2027) cho hai người: **Bi** (chủ shop) và **Kẹo** (người yêu). Thương hiệu **Samesies** (dạng ngắn Samesies). Trong giai đoạn 0 (19/10 → 2/11, chi 0 ₫) chỉ dùng mục a–c để nhận danh sách chờ và cọc; sản xuất bắt đầu từ lô đầu tiên tuần 1. Số phí/ship/thuế lấy từ `00-research/_raw_fees_unit_economics.md` và `_raw_sourcing.md`; giá vốn từ `03-products/`; mốc thời gian từ `01-strategy/` §6. Chỗ nào là quy tắc tôi đề xuất (không có trong nghiên cứu) ghi rõ "đề xuất".
 
 **Mục lục**
 - 0. Quy ước chung
@@ -35,19 +35,19 @@
 
 | Kênh | Đơn xuất hiện ở | Lấy thông tin cá nhân hoá | Tiền | Phí để ghi Sổ Lãi |
 |---|---|---|---|---|
-| **TikTok Shop** "Bi Kẹo Studio · Đồ đôi thiết kế" (gắn kênh "bi ơi kẹo đói") | Seller Center / BigSeller | Trong 1 giờ làm việc nhắn chat TikTok mẫu **A1** → khách trả lời 9 dòng hoặc điền form (link trong mô tả); đối chiếu SĐT + mã đơn sàn | Sàn giữ; tiền về **Standard 8 ngày** với shop mới, Accelerated 3 ngày sau giai đoạn điều chỉnh; có thể giữ tới 30 ngày khi bất thường (Seller University 09/07/2026) | 15% hoa hồng + 6% phí giao dịch + 1,5% thuế = **22,5% + 3.000đ/đơn** (16,5% + 3.000đ nếu được 0% phí giao dịch) |
-| **Shopee** bikeo.studio | Kênh Người Bán / BigSeller | Đọc "lời nhắn" khách để khi đặt; thiếu → chat Shopee **A1** | Sàn giữ | 16,5% + 6% + 1,5% = **24% + 5.700đ/đơn** (3.000 hạ tầng + 2.700 PiShip); miễn phí cố định 30 ngày từ sản phẩm đầu (6/11 → 5/12) |
-| **Instagram** @bikeo.studio | DM | Mẫu **A2** → form hoặc 9 dòng trong DM; QR cọc gửi trong DM hoặc mời sang Zalo | Cọc 50% QR + COD phần còn lại | **0%** |
-| **Zalo** "Bi Kẹo Studio — đồ đôi kỷ niệm" | Tin nhắn | Mẫu **A2**; kênh chốt chính; ghim chính sách + bảng size + form | Cọc 50% + COD | **0%** |
+| **TikTok Shop** "Samesies · Đồ đôi thiết kế" (gắn kênh mới @samesies.studio) | Seller Center / BigSeller | Trong 1 giờ làm việc nhắn chat TikTok mẫu **A1** → khách trả lời 9 dòng hoặc điền form (link trong mô tả); đối chiếu SĐT + mã đơn sàn | Sàn giữ; tiền về **Standard 8 ngày** với shop mới, Accelerated 3 ngày sau giai đoạn điều chỉnh; có thể giữ tới 30 ngày khi bất thường (Seller University 09/07/2026) | 15% hoa hồng + 6% phí giao dịch + 1,5% thuế = **22,5% + 3.000đ/đơn** (16,5% + 3.000đ nếu được 0% phí giao dịch) |
+| **Shopee** samesies.studio | Kênh Người Bán / BigSeller | Đọc "lời nhắn" khách để khi đặt; thiếu → chat Shopee **A1** | Sàn giữ | 16,5% + 6% + 1,5% = **24% + 5.700đ/đơn** (3.000 hạ tầng + 2.700 PiShip); miễn phí cố định 30 ngày từ sản phẩm đầu (6/11 → 5/12) |
+| **Instagram** @samesies.studio | DM | Mẫu **A2** → form hoặc 9 dòng trong DM; QR cọc gửi trong DM hoặc mời sang Zalo | Cọc 50% QR + COD phần còn lại | **0%** |
+| **Zalo** "Samesies — đồ đôi kỷ niệm" | Tin nhắn | Mẫu **A2**; kênh chốt chính; ghim chính sách + bảng size + form | Cọc 50% + COD | **0%** |
 
 Nguyên tắc kênh (`01-strategy` §1, §4): sàn tạo nhu cầu, kênh trực tiếp giữ biên. Không mời khách đã đặt trên sàn hủy để mua ngoài; chỉ mời **khách mới** qua Zalo/IG bằng quà: thiệp viết tay + khắc tên miễn phí.
 
-**Form "BI KẸO STUDIO — thông tin để làm đồ của hai đứa" (Google Form; cũng là 9 dòng để khách trả lời trong chat):**
+**Form "SAMESIES — thông tin để làm đồ của hai đứa" (Google Form; cũng là 9 dòng để khách trả lời trong chat):**
 
 ```
 1. Tên hai bạn: ______ & ______  → tụi mình lấy chữ cái đầu, viết thường, vd "b & k" (muốn khác, ghi ở mục 8)
 2. Ngày kỷ niệm (dd.mm.yy): __.__.__   vd 14.02.25
-3. Sản phẩm: ☐ Áo nỉ Bi Kẹo 499k/cặp  ☐ Áo thun Bi Kẹo 349k/cặp  ☐ Vòng Bi Kẹo 149k/cặp  ☐ Hộp Quà Kỷ Niệm Bi Kẹo 599k  ☐ thêm Vòng +99k
+3. Sản phẩm: ☐ Áo nỉ Samesies 499k/cặp  ☐ Áo thun Samesies 349k/cặp  ☐ Vòng Samesies 149k/cặp  ☐ Hộp Quà Kỷ Niệm Samesies 599k  ☐ thêm Vòng +99k
 4. Người 1: size ☐S ☐M ☐L ☐XL ☐2XL ☐3XL · cao ___ cm · nặng ___ kg · nam/nữ
 5. Người 2: size ☐S ☐M ☐L ☐XL ☐2XL ☐3XL · cao ___ cm · nặng ___ kg · nam/nữ
 6. Màu: ☐ đen ☐ trắng kem ☐ be ☐ xanh rêu — ☐ hai áo cùng màu ☐ mỗi người một màu: ___ / ___
@@ -60,10 +60,10 @@ Mỗi phản hồi form tự sinh 1 dòng trong Bảng đơn; Kẹo gán mã đ�
 
 **Mẫu câu**
 
-- **A1 — đơn sàn chưa có thông tin:** "Bi Kẹo chào bạn, cảm ơn bạn đã đặt [SKU]! Để làm đúng đồ của hai đứa, bạn gửi giúp tụi mình 5 thứ: (1) tên hai bạn, (2) ngày kỷ niệm dd.mm.yy, (3) size từng người + cao/nặng, (4) màu, (5) vị trí thêu: ngực trái hay tay áo. Hoặc điền form 2 phút: [link]. Đủ thông tin là tụi mình gửi preview để bạn duyệt trước khi thêu nhé."
-- **A2 — khách hỏi giá trên IG/Zalo:** "Chào bạn! Set 2 áo nỉ Bi Kẹo 499k/cặp (áo thun 349k/cặp), thêu chữ cái đầu + ngày kỷ niệm của hai đứa, freeship, làm 3–4 ngày. Bạn gửi tụi mình: tên hai bạn · ngày dd.mm.yy · size + cao/nặng từng người · màu · ngực trái/tay áo — hoặc form 2 phút: [link]. Tụi mình gửi preview, bạn OK rồi mới cọc 50% nhé."
+- **A1 — đơn sàn chưa có thông tin:** "Samesies chào bạn, cảm ơn bạn đã đặt [SKU]! Để làm đúng đồ của hai đứa, bạn gửi giúp tụi mình 5 thứ: (1) tên hai bạn, (2) ngày kỷ niệm dd.mm.yy, (3) size từng người + cao/nặng, (4) màu, (5) vị trí thêu: ngực trái hay tay áo. Hoặc điền form 2 phút: [link]. Đủ thông tin là tụi mình gửi preview để bạn duyệt trước khi thêu nhé."
+- **A2 — khách hỏi giá trên IG/Zalo:** "Chào bạn! Set 2 áo nỉ Samesies 499k/cặp (áo thun 349k/cặp), thêu chữ cái đầu + ngày kỷ niệm của hai đứa, freeship, làm 3–4 ngày. Bạn gửi tụi mình: tên hai bạn · ngày dd.mm.yy · size + cao/nặng từng người · màu · ngực trái/tay áo — hoặc form 2 phút: [link]. Tụi mình gửi preview, bạn OK rồi mới cọc 50% nhé."
 - **A3 — nhắc thiếu thông tin (sau 24h):** "Bạn ơi, đơn [mã] còn thiếu [tên/ngày/size]. Tụi mình giữ chỗ lô thêu [thứ 2 9/11] tới 21:00 chủ nhật 8/11 nhé, qua giờ đó đơn sẽ vào lô sau."
-- **A4 — tự động ngoài giờ:** "Bi Kẹo đã nhận tin của bạn. Tụi mình trả lời từ 8:00–22:00, thường trong 15 phút. Trong lúc chờ, bạn điền form 2 phút để tụi mình làm preview luôn nhé: [link]."
+- **A4 — tự động ngoài giờ:** "Samesies đã nhận tin của bạn. Tụi mình trả lời từ 8:00–22:00, thường trong 15 phút. Trong lúc chờ, bạn điền form 2 phút để tụi mình làm preview luôn nhé: [link]."
 - **A5 — gợi ý size:** "Theo cao/nặng bạn gửi, tụi mình gợi ý size [M] cho [tên] và [L] cho [tên] (bảng size đo phẳng của xưởng ở ảnh số 5). Thích rộng hơn thì lên 1 size. Bạn chốt size nào để tụi mình ghi vào preview?"
 
 ## b. Gửi preview
@@ -81,17 +81,17 @@ Mỗi phản hồi form tự sinh 1 dòng trong Bảng đơn; Kẹo gán mã đ�
 5. Gửi kèm **B1**; chỉ nhận OK bằng chữ ("OK", "đúng rồi"), không nhận like/emoji; chụp màn hình OK vào thư mục mã đơn.
 6. Ký tự lạ (ký hiệu, chữ có dấu, số La Mã): bảo khách gõ lại, chụp màn hình, dán nguyên vào Phiếu lô.
 
-- **B1 — gửi preview:** "Preview đồ của hai đứa đây: dòng 1 `b & k`, dòng 2 `14.02.25` — Áo nỉ Bi Kẹo màu kem, thêu ngực trái, size M (Bảo) + L (Khanh). Bạn kiểm tra kỹ **từng chữ cái và từng con số** giúp tụi mình nhé. Rep **OK** là tụi mình đưa vào lô thêu — **sau khi thêu/in thì không đổi được tên, ngày, màu, vị trí** (đổi size vẫn được 1 lần trong 15 ngày). Muốn sửa gì cứ nói, tụi mình làm lại preview liền."
+- **B1 — gửi preview:** "Preview đồ của hai đứa đây: dòng 1 `b & k`, dòng 2 `14.02.25` — Áo nỉ Samesies màu kem, thêu ngực trái, size M (Bảo) + L (Khanh). Bạn kiểm tra kỹ **từng chữ cái và từng con số** giúp tụi mình nhé. Rep **OK** là tụi mình đưa vào lô thêu — **sau khi thêu/in thì không đổi được tên, ngày, màu, vị trí** (đổi size vẫn được 1 lần trong 15 ngày). Muốn sửa gì cứ nói, tụi mình làm lại preview liền."
 - **B2 — sau khi sửa:** "Đã sửa thành `b & h` · `20.11.24` — preview mới đây, bạn xem lại rồi rep OK nhé."
 
 ## c. Cọc 50% kênh trực tiếp (Zalo / Instagram / Facebook)
 
 | SKU | Giá | Cọc 50% (làm tròn) | COD còn lại |
 |---|---|---|---|
-| Áo nỉ Bi Kẹo | 499.000 | **250.000** | 249.000 |
-| Áo thun Bi Kẹo | 349.000 | **175.000** | 174.000 |
-| Vòng Bi Kẹo | 149.000 | **75.000** | 74.000 |
-| Hộp Quà Kỷ Niệm Bi Kẹo | 599.000 | **300.000** | 299.000 |
+| Áo nỉ Samesies | 499.000 | **250.000** | 249.000 |
+| Áo thun Samesies | 349.000 | **175.000** | 174.000 |
+| Vòng Samesies | 149.000 | **75.000** | 74.000 |
+| Hộp Quà Kỷ Niệm Samesies | 599.000 | **300.000** | 299.000 |
 | Áo nỉ + Vòng (+99k) | 598.000 | **300.000** | 298.000 |
 | Áo thun + Vòng (+99k) | 448.000 | **225.000** | 223.000 |
 | Giá ra mắt (danh sách chờ, tuần 1): áo nỉ 459.000 / áo thun 321.000 | | 230.000 / 160.000 | 229.000 / 161.000 |
@@ -106,7 +106,7 @@ Freeship kênh trực tiếp: cước SPX 14.000–15.000đ do shop chịu (mô 
 **Luật cọc:** cọc trong 24h sau khi OK preview; 20:00 nhắc 1 lần (**C3**); chưa cọc tới giờ chốt → lô sau. Hủy **trước khi thêu**: hoàn cọc 100%. Hủy **sau khi đã thêu**: không hoàn cọc — áo đã cá nhân hoá không bán cho ai khác; cọc 250k với áo nỉ ≈ giá vốn set 212k + ship 15k nên shop không lỗ tiền mặt. **Giai đoạn 0:** tiền cọc danh sách chờ chỉ nằm trong tài khoản, dùng mua phôi ngày 3/11 (`01-strategy` §6).
 
 - **C1 — gửi QR:** "Để giữ chỗ trong lô thêu [thứ 2 9/11], bạn cọc 50% = 250.000đ qua QR này (nội dung: BK0611-03 BK, tài khoản [tên]). Còn lại 249.000đ thanh toán khi nhận hàng, freeship. Tiền vào là tụi mình xác nhận ngay."
-- **C2 — đã nhận cọc:** "Tụi mình đã nhận cọc 250.000đ cho đơn BK0611-03 — Áo nỉ Bi Kẹo kem, M + L, `b & k · 14.02.25`, ngực trái. Lô thêu thứ 2 9/11 → gửi hàng dự kiến thứ 4 11/11 → nhận 12–15/11 tuỳ khu vực. Còn lại 249.000đ thanh toán khi nhận. Có mã vận đơn tụi mình nhắn liền."
+- **C2 — đã nhận cọc:** "Tụi mình đã nhận cọc 250.000đ cho đơn BK0611-03 — Áo nỉ Samesies kem, M + L, `b & k · 14.02.25`, ngực trái. Lô thêu thứ 2 9/11 → gửi hàng dự kiến thứ 4 11/11 → nhận 12–15/11 tuỳ khu vực. Còn lại 249.000đ thanh toán khi nhận. Có mã vận đơn tụi mình nhắn liền."
 - **C3 — nhắc cọc:** "Bạn ơi, preview đã OK rồi, tụi mình chờ cọc để đưa vào lô thêu [thứ 2 9/11] nhé — chốt lô lúc 21:00 chủ nhật. Sau giờ đó đơn sẽ vào lô kế (thứ 5 12/11)."
 
 ## d. Gom lô sản xuất → mua phôi → xưởng → QC → đóng gói
@@ -177,7 +177,7 @@ Không đạt → ghi "Lỗi xưởng — [mục]" trong Bảng lô, mang lại 
 9. **Chụp ảnh** gói đã dán nhãn.
 10. Bảng đơn: "Đã đóng gói".
 
-**Tờ "shipper nhẹ tay"** (A6, ý tưởng từ Nguyễn Phúc Long mục f): "Anh/chị shipper ơi, nhẹ tay giúp tụi mình — bên trong là quà kỷ niệm của hai đứa. Cảm ơn anh/chị nhiều! — Bi Kẹo Studio"
+**Tờ "shipper nhẹ tay"** (A6, ý tưởng từ Nguyễn Phúc Long mục f): "Anh/chị shipper ơi, nhẹ tay giúp tụi mình — bên trong là quà kỷ niệm của hai đứa. Cảm ơn anh/chị nhiều! — Samesies"
 
 **Thiệp** (3 mẫu xoay vòng): "Gửi [Tên 1] & [Tên 2], chúc hai đứa mặc chung thật nhiều ngày nữa, từ [14.02.25] trở đi. — Bi & Kẹo" · "Hai viên kẹo, một ngày kỷ niệm. — Bi & Kẹo" · "[Tên 1] & [Tên 2], cảm ơn vì đã để tụi mình làm một phần nhỏ của ngày kỷ niệm. — Bi & Kẹo"
 
@@ -216,7 +216,7 @@ In nhãn → dán ngoài túi niêm phong → chụp ảnh → **đặt lấy h�
 
 Áp dụng cho **mọi đơn chưa cọc** (đơn sàn chọn COD, đơn bạn bè chưa chuyển khoản). Gửi **F0** ngay khi có đủ thông tin; chỉ đưa vào Bảng lô khi khách rep "ĐÚNG" bằng chữ; nhắc sau 12h và 24h; **48h không trả lời**: với đơn sàn nhắn "nếu không nhận được xác nhận trước [giờ], tụi mình làm bản mặc định thêu hai viên kẹo ở gấu áo (không cá nhân hoá) để kịp hẹn giao, hoặc bạn hủy đơn giúp tụi mình" — hủy **trước giao** được TikTok hoàn 100% hoa hồng; hoàn **sau giao** vẫn bị thu hoa hồng + phí giao dịch (từ 01/04/2026, `_raw_fees` §1.2).
 
-- **F0 — xác nhận COD:** "Bi Kẹo xác nhận đơn [mã]: [SKU, màu, size M + L, `b & k · 14.02.25`, ngực trái], giao tới [địa chỉ], SĐT [..], thanh toán khi nhận [số tiền]. Bạn rep **ĐÚNG** để tụi mình thêu nhé — áo làm riêng theo tên hai bạn nên tụi mình chỉ thêu khi bạn xác nhận."
+- **F0 — xác nhận COD:** "Samesies xác nhận đơn [mã]: [SKU, màu, size M + L, `b & k · 14.02.25`, ngực trái], giao tới [địa chỉ], SĐT [..], thanh toán khi nhận [số tiền]. Bạn rep **ĐÚNG** để tụi mình thêu nhé — áo làm riêng theo tên hai bạn nên tụi mình chỉ thêu khi bạn xác nhận."
 
 Vì sao bắt buộc: hoàn/bom quần áo 5–10% (Sapo), COD thời trang 15–25% (Eimskip), livestream 25–30% (VnExpress); cổng T1 yêu cầu **hoàn ≤10%**. Mỗi đơn bom với SPX (hoàn miễn phí) mất cước chiều đi 14–15k + bao bì 5k + công; hàng cá nhân hoá mất thêm giá vốn (áo nỉ 212k) — nên kênh trực tiếp bắt buộc **cọc 50%**.
 

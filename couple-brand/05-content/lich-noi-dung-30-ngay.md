@@ -1,4 +1,4 @@
-# Lịch nội dung — BI KẸO STUDIO: giai đoạn 0 (19/10 → 2/11) + 30 ngày đầu bán (3/11 → 2/12/2026)
+# Lịch nội dung — SAMESIES: giai đoạn 0 (19/10 → 2/11) + 30 ngày đầu bán (3/11 → 2/12/2026)
 
 **Mục lục**
 1. Nguyên tắc chung (đọc 2 phút trước khi đăng bất kỳ video nào)
@@ -12,7 +12,7 @@
 9. Phác thảo 3/12 → 1/1/2027: 12/12 và hạn Noel, hỏa tốc tới 20/12, Noel, năm mới, mở màn "đồ đôi đi chơi Tết"
 10. Cổng kiểm soát và luật xoay trục áp cho nội dung
 
-Số kịch bản `#1–#27` tham chiếu file `kich-ban-video.md` cùng thư mục. Giá, size, chính sách lấy từ `03-products/san-pham-gia-nguon-hang.md` và `02-brand/thuong-hieu-bi-keo-studio.md`. Cửa sổ 60 ngày của kế hoạch: **3/11/2026 → 2/1/2027** (ngày 1 = 3/11, ngày lương về).
+Số kịch bản `#1–#27` tham chiếu file `kich-ban-video.md` cùng thư mục. Giá, size, chính sách lấy từ `03-products/san-pham-gia-nguon-hang.md` và `02-brand/thuong-hieu-samesies.md`. Cửa sổ 60 ngày của kế hoạch: **3/11/2026 → 2/1/2027** (ngày 1 = 3/11, ngày lương về).
 
 ---
 
@@ -20,12 +20,12 @@ Số kịch bản `#1–#27` tham chiếu file `kich-ban-video.md` cùng thư m�
 
 - **Công thức 4 nhịp** (rút từ 10 video đồ đôi view cao nhất, báo cáo đối thủ mục 3): 1–2 giây đầu là **tình huống quan hệ quen thuộc** → 2–3 giây **cận mũi thêu / chữ khắc** → **hai đứa mặc thật** → CTA **giỏ hàng vàng + lý do mua ngay** (nhận trong 4–7 ngày, 20 cặp giá ra mắt, hạn Noel 12/12…).
 - Gương mặt: **Bi** (chủ shop) và **Kẹo** (người yêu) — cặp đôi thật, yêu gần, quay bằng điện thoại, ánh sáng tự nhiên, không studio (Couple TX quay studio, live 18h/ngày mà video thường chỉ 2–12K view).
-- Kênh: đăng trên kênh TikTok có sẵn **"bi ơi kẹo đói"** (235 follower, 5.000 like), không mở kênh trống; ngày 19/10 đổi ảnh đại diện sang logo hai viên kẹo tròn, sửa bio (bản giai đoạn 0 trong `listing-va-caption.md` mục 8), gắn TikTok Shop "Bi Kẹo Studio" vào kênh này khi có hàng (tuần bán 1). Instagram và Shopee dùng **@bikeo.studio** (dự phòng @bikeostudio), Zalo "Bi Kẹo Studio", Facebook Page "Bi Kẹo Studio".
+- Kênh: đăng trên kênh TikTok có sẵn **@samesies.studio** (kênh mới, 0 follower), không mở kênh trống; ngày 19/10 đổi ảnh đại diện sang logo hai viên kẹo tròn, sửa bio (bản giai đoạn 0 trong `listing-va-caption.md` mục 8), gắn TikTok Shop "Samesies" vào kênh này khi có hàng (tuần bán 1). Instagram và Shopee dùng **@samesies.studio** (dự phòng @samesies.vn), Zalo "Samesies", Facebook Page "Samesies".
 - **Giai đoạn 0 chi 0 ₫:** từ 19/10 đến 2/11 không mua gì (lương về 3/11). Chỉ có điện thoại + kênh + Canva miễn phí. Mọi hình sản phẩm trước 3/11 là **mockup** và phải ghi chữ "mockup" trên màn hình; cảnh "mặc thử" dùng áo trơn sẵn có trong tủ + mẩu giấy ghi chữ dán ngực trái. Không nhận cọc, không hứa ngày giao trước 3/11 — chỉ nhận **danh sách chờ** (Google Form ở link bio + Zalo).
 - Giọng: thân, ngắn, hài nhẹ, xưng "tụi mình"; gọi nhau là Bi và Kẹo trong video. **Luôn ghi giá theo cặp** ngay trong video và caption. Không bao giờ "ib để biết giá".
-- Giá dùng trong giai đoạn này: Áo nỉ Bi Kẹo **499k/cặp** (20 cặp đầu cho danh sách chờ: giá ra mắt **459k** + tặng thiệp viết tay/khắc tên vòng khi mua kèm), Áo thun Bi Kẹo **349k/cặp** (ra mắt **321k**), Vòng Bi Kẹo **149k/cặp**, Hộp Quà Kỷ Niệm Bi Kẹo **599k** (từ 10/11). Mua áo thêm vòng **+99k**. Không giảm giá sâu ở bất kỳ dịp nào; ưu đãi luôn là **tặng** (khắc tên, thiệp) hoặc **khung giờ/số lượng**.
+- Giá dùng trong giai đoạn này: Áo nỉ Samesies **499k/cặp** (20 cặp đầu cho danh sách chờ: giá ra mắt **459k** + tặng thiệp viết tay/khắc tên vòng khi mua kèm), Áo thun Samesies **349k/cặp** (ra mắt **321k**), Vòng Samesies **149k/cặp**, Hộp Quà Kỷ Niệm Samesies **599k** (từ 10/11). Mua áo thêm vòng **+99k**. Không giảm giá sâu ở bất kỳ dịp nào; ưu đãi luôn là **tặng** (khắc tên, thiệp) hoặc **khung giờ/số lượng**.
 - Nhịp đăng: giai đoạn 0 tối thiểu 1 video/ngày (2 khi là video rẻ: khảo sát, nhật ký); tuần bán 1–2 là 1–2 video/ngày; từ tuần bán 3 là 2 video/ngày. Giờ đăng thử nghiệm: **11h30–12h30** và **19h30–21h**; sau 7 ngày xem Analytics, giữ khung có view cao hơn.
-- Mỗi video TikTok được **đăng lại** cùng ngày lên Instagram Reels (bản không watermark, caption rút gọn 1–2 dòng) và Facebook Page Bi Kẹo Studio (Reels + 1 ảnh tĩnh nếu là video sản phẩm). Nhật ký khởi nghiệp thêm 1 bản lên Facebook cá nhân của Bi và Kẹo (bạn bè là nguồn đơn đầu tiên và 10 đánh giá thật).
+- Mỗi video TikTok được **đăng lại** cùng ngày lên Instagram Reels (bản không watermark, caption rút gọn 1–2 dòng) và Facebook Page Samesies (Reels + 1 ảnh tĩnh nếu là video sản phẩm). Nhật ký khởi nghiệp thêm 1 bản lên Facebook cá nhân của Bi và Kẹo (bạn bè là nguồn đơn đầu tiên và 10 đánh giá thật).
 - Mọi số liệu trong video nhật ký (số người danh sách chờ, số đơn, tiền lãi) **chỉ lấy từ form và Sổ Lãi 60 Ngày**; chưa có số thì nói "chưa có" chứ không bịa.
 - Mỗi video: phụ đề tự động + chữ on-screen to, 3 giây đầu phải có chữ. Kết video bán hàng luôn có 1 trong 4 lý do mua ngay: nhận trong 4–7 ngày · đổi size 1 lần miễn phí 15 ngày · xem preview trước khi thêu · đặt trước 12/12 chắc chắn nhận trước Noel.
 
@@ -39,7 +39,7 @@ Mục tiêu giai đoạn này: (a) **test hook** — biết tình huống nào k
 
 | Ngày | Mốc | Video 1 (loại · kịch bản · tiêu đề hook) | Video 2 | CTA | Đăng lại |
 |---|---|---|---|---|---|
-| T2 19/10 | Ngày −15 · bắt đầu | NK · #9 · "Kênh này 235 follower. Tụi mình muốn mở shop đồ đôi mà 3/11 mới có lương. Hôm nay gọi xưởng xin báo giá trước." | — | "Follow xem 3/11 tụi mình có đủ tiền không" | IG Reels, FB Page, FB cá nhân |
+| T2 19/10 | Ngày −15 · bắt đầu | NK · #9 · "Kênh này 0 follower. Tụi mình muốn mở shop đồ đôi mà 3/11 mới có lương. Hôm nay gọi xưởng xin báo giá trước." | — | "Follow xem 3/11 tụi mình có đủ tiền không" | IG Reels, FB Page, FB cá nhân |
 | T3 20/10 | 20/10 | MOCK · #25 · "20/10 không có tiền mua quà. Bi vẽ áo đôi cho Kẹo trên Canva." | KS · "Kẹo chọn màu: đen – kem – be – rêu. Bạn chọn màu nào cho hai đứa?" (poll bình luận) | "Bình luận màu + ngày yêu nhau của hai bạn" | IG Reels, FB Page |
 | T4 21/10 | Test hook 1 | POV · #1 bản mockup · "100 ngày. Em quên. Anh thêu luôn lên áo." (áo trơn + giấy ghi `k & b · 14.02.25`) | — | "Hai bạn yêu nhau ngày mấy?" | IG Reels, FB Page |
 | T5 22/10 | Khảo sát giá | KS · "Tụi mình định bán 499k/cặp áo nỉ thêu tên + ngày. Đắt hay rẻ? Nói thật, tụi mình chưa in cái nào." | MOCK · #25 bản 2 · "3 kiểu chữ tụi mình định thêu — kiểu nào không sến?" | "Bình luận 'đắt' hoặc 'ổn' + lý do" | IG Reels, FB Page |
@@ -71,7 +71,7 @@ Ngày 1 = 3/11: nhận lương, chuyển tiền mua mẫu (6 áo nỉ, 6 áo thu
 | T6 6/11 | Ngày 4 · thêu thử | NK · #10 · "Ngày 4: thêu thử hỏng. Chữ lệch 1cm, Kẹo bảo 'vẫn đẹp', Bi bảo 'làm lại'." | CẬN · #15 · "Mũi thêu 1,5cm. Chữ nhỏ thôi, nhưng là ngày của hai đứa." | "Gửi chữ cái + ngày, nhận preview trước khi thêu" | IG Reels, FB Page, FB cá nhân |
 | T6 6/11 | Ngày 4 · listing sàn lên | POV · #3 · "Lần đầu mặc đồ đôi: Kẹo xấu hổ đúng 4 giây." (hàng thật, thay bản mockup) | CẬN · #17 · "Bảng size nam/nữ riêng: 62kg mặc L, 48kg mặc S — cùng một set." | "Giỏ hàng vàng đã mở — nhận trong 4–7 ngày, đổi size 1 lần miễn phí" | IG Reels, FB Page |
 | CN 8/11 | Ngày 6 | POV · #5 · "Cà phê cuối tuần, mặc chung một ngày." (hàng thật) | CẬN · #18 · "Đặt tên + ngày lên áo thế nào cho không sến (3 kiểu)" + ĐẾM · #20 bản "3 ngày nữa 11/11" | "Thêm vòng vào giỏ trước 11/11" | IG Reels, FB Page |
-| T2 9/11 | Ngày 7 · cổng tuần 1 | NK · #12 · "Sổ lãi tuần đầu mở bán: [số đơn thật] đơn, lãi [số thật], còn [số thật] tiền mặt." | ĐẾM · #20 · "2 ngày nữa 11/11: Vòng Bi Kẹo 149k/cặp flash 0h–12h–20h, mua áo thêm vòng +99k" | "Thêm vào giỏ trước 0h" | IG Reels, FB Page, FB cá nhân |
+| T2 9/11 | Ngày 7 · cổng tuần 1 | NK · #12 · "Sổ lãi tuần đầu mở bán: [số đơn thật] đơn, lãi [số thật], còn [số thật] tiền mặt." | ĐẾM · #20 · "2 ngày nữa 11/11: Vòng Samesies 149k/cặp flash 0h–12h–20h, mua áo thêm vòng +99k" | "Thêm vào giỏ trước 0h" | IG Reels, FB Page, FB cá nhân |
 
 **Cổng tuần bán 1 (9/11):** mẫu + listing đã lên · ≥10 đơn (danh sách chờ + bạn bè), hoàn ≤10% · 5 KOC đã nhận mẫu.
 
@@ -83,11 +83,11 @@ Ngày 1 = 3/11: nhận lương, chuyển tiền mua mẫu (6 áo nỉ, 6 áo thu
 
 | Ngày | Mốc | Video 1 | Video 2 | CTA | Đăng lại |
 |---|---|---|---|---|---|
-| T3 10/11 | **Ra mắt Hộp Quà Kỷ Niệm** | BÁN · #24 · "Hộp Quà Kỷ Niệm Bi Kẹo 599k: áo nỉ đôi + vòng khắc tên + thiệp viết tay + hộp. Rẻ hơn mua rời 49k." | ĐẾM · #20 · "Mai 11/11 — tụi mình không giảm sâu, tụi mình làm thế này." | "Giỏ hàng vàng — mai 11/11 chốt" | IG Reels, FB Page |
+| T3 10/11 | **Ra mắt Hộp Quà Kỷ Niệm** | BÁN · #24 · "Hộp Quà Kỷ Niệm Samesies 599k: áo nỉ đôi + vòng khắc tên + thiệp viết tay + hộp. Rẻ hơn mua rời 49k." | ĐẾM · #20 · "Mai 11/11 — tụi mình không giảm sâu, tụi mình làm thế này." | "Giỏ hàng vàng — mai 11/11 chốt" | IG Reels, FB Page |
 | T4 11/11 | **11/11 · ngày 9** | 0h: BÁN · #20 bản 15s · "0h 11/11 — 20 cặp vòng khung đầu" · 12h: bản "khung trưa" | 20h: ĐẾM · "Khung cuối 20h — mua áo thêm vòng 99k, hết 0h là hết" + FB khách đầu tiên trong ngày nếu có | "Giỏ hàng vàng ngay bây giờ" | IG Reels, FB Page (3 bản trong ngày) |
 | T5 12/11 | Hậu 11/11 | NK · "11/11 tụi mình bán được [số thật] đơn. Đây là những gì đã sai." | BÁN · #23 · "Đặt trước 12/12, chắc chắn nhận trước Noel. Sau 12/12 tụi mình không hứa." (chạy liên tục tới 12/12) | "Link bio để gửi tên + ngày" | IG Reels, FB Page, FB cá nhân |
 | T6 13/11 | — | POV · #1 · "100 ngày. Em quên. Anh thêu luôn lên áo." (hàng thật) | CẬN · #19 · "Mở hộp: 499k/cặp có gì?" | "Giỏ hàng vàng — nhận trong 4–7 ngày" | IG Reels, FB Page |
-| T7 14/11 | UGC đầu tiên | POV · #4 · "Kẹo nhận quà bất ngờ (không biết Bi đang quay)." | FB · "Khách đầu tiên mặc áo Bi Kẹo — tụi mình xem clip mà run tay." (UGC thật, đã xin phép) | "Hộp Quà 599k — đặt trước 12/12" | IG Reels, FB Page |
+| T7 14/11 | UGC đầu tiên | POV · #4 · "Kẹo nhận quà bất ngờ (không biết Bi đang quay)." | FB · "Khách đầu tiên mặc áo Samesies — tụi mình xem clip mà run tay." (UGC thật, đã xin phép) | "Hộp Quà 599k — đặt trước 12/12" | IG Reels, FB Page |
 | CN 15/11 | — | POV · #8 · "Mẹ hỏi: 'Hai đứa yêu nhau bao lâu rồi?' — nhìn áo là biết." (hàng thật) | LIST · "3 ngày kỷ niệm đáng thêu lên áo hơn cả sinh nhật" | "Bình luận ngày của hai bạn, tụi mình gửi preview miễn phí" | IG Reels, FB Page |
 | T2 16/11 | **Ngày 14 · cổng xoay trục** | POV · #7 · "Matching nhưng không sến" (hàng thật) | ĐẾM · #23 · "26 ngày nữa là hạn 12/12 — tụi mình đếm từ hôm nay" + 1 bản FB nếu KOC đợt 1 đã lên video | "Đặt trước 12/12 nhận trước Noel" | IG Reels, FB Page |
 
@@ -101,7 +101,7 @@ Từ tuần này 2 video/ngày: video trưa là nội dung quan hệ (POV/NK/LIS
 
 | Ngày | Mốc | Video 1 (trưa) | Video 2 (tối) | CTA | Đăng lại |
 |---|---|---|---|---|---|
-| T3 17/11 | KOC đợt 1 lên video | FB · "3 cặp creator mặc Bi Kẹo tuần này" (ghép clip KOC, có tag) | CẬN · #15 phiên bản 2 · "Giặt 3 lần rồi, mũi thêu còn nguyên không? Soi." | "Giỏ hàng vàng — nhận trong 4–7 ngày, đổi size miễn phí" | IG Reels, FB Page |
+| T3 17/11 | KOC đợt 1 lên video | FB · "3 cặp creator mặc Samesies tuần này" (ghép clip KOC, có tag) | CẬN · #15 phiên bản 2 · "Giặt 3 lần rồi, mũi thêu còn nguyên không? Soi." | "Giỏ hàng vàng — nhận trong 4–7 ngày, đổi size miễn phí" | IG Reels, FB Page |
 | T4 18/11 | Mở chủ đề Noel · bật ads | POV · #6 bản 1 · "Chụp ảnh Noel sớm vì tụi mình cần ảnh cho shop — và vì thích." | NK · "Tuần 3: tụi mình bật ads 100k/ngày cho đúng 1 video. Kết quả thật đây." (số thật) | "Hộp Quà 599k — đặt trước 12/12" | IG Reels, FB Page, FB cá nhân |
 | T5 19/11 | — | POV · #2 · "Cãi nhau xong, Kẹo lấy áo đôi ra mặc. Thế là hoà." | FB · feedback khách #2 (ảnh tin nhắn + ảnh mặc thật, đã xin phép) | "Mua áo thêm vòng khắc tên +99k" | IG Reels, FB Page |
 | T6 20/11 | — | LIST · #22 bản sớm · "Quà Noel cho người yêu dưới 600k: 3 lựa chọn, 1 cái tụi mình bán" | CẬN · #18 phiên bản 2 · "Khách ghi tên kiểu gì nhiều nhất? 3 kiểu thật từ đơn tuần qua (đã xin phép, che tên)" | "Đặt trước 12/12 chắc chắn nhận trước Noel" | IG Reels, FB Page |
@@ -133,7 +133,7 @@ Từ tuần này 2 video/ngày: video trưa là nội dung quan hệ (POV/NK/LIS
 
 | Ngày | Mốc | Video 1 | Video 2 | CTA | Đăng lại |
 |---|---|---|---|---|---|
-| T3 1/12 | Ngày 29 · KOC đợt 2 gửi mẫu | FB · "Tuần này [số thật] cặp đã mặc Bi Kẹo — ghép 5 clip khách" | BÁN · #22 bản chính bắt đầu · "11 ngày nữa là 12/12 — ngày cuối tụi mình dám hứa nhận trước Noel" | "Giỏ hàng vàng — đặt trước 12/12" | IG Reels, FB Page |
+| T3 1/12 | Ngày 29 · KOC đợt 2 gửi mẫu | FB · "Tuần này [số thật] cặp đã mặc Samesies — ghép 5 clip khách" | BÁN · #22 bản chính bắt đầu · "11 ngày nữa là 12/12 — ngày cuối tụi mình dám hứa nhận trước Noel" | "Giỏ hàng vàng — đặt trước 12/12" | IG Reels, FB Page |
 | T4 2/12 | **Ngày 30 · nửa chặng** | NK · #14 · "Nửa chặng: 30 ngày, [số đơn thật] đơn, còn [số thật] trong túi. Nói thật hết." | POV · #4 phiên bản 2 · "Bi tặng Kẹo quà Noel sớm 3 tuần vì… tụi mình bán nó" | "Follow xem 30 ngày còn lại" | IG Reels, FB Page, FB cá nhân |
 
 **Luật ngày 30 (2/12):** lợi nhuận lũy kế <5 triệu → tắt ads hoàn toàn, chạy thuần video + affiliate, bảo toàn tiền; nhịp 2 video/ngày không đổi.
@@ -169,11 +169,11 @@ Mẹo lô: quay mỗi kịch bản 2 lần (1 lần Bi nói, 1 lần Kẹo nói)
 | Tuần | Ngày | Mốc | Ý tưởng chủ đạo (2 video/ngày) | Lý do mua ngay trong CTA |
 |---|---|---|---|---|
 | Ngày 31–37 | T5 3/12 – T4 9/12 | Đếm ngược 12/12; KOC đợt 2 lên video; live 2 phiên/tuần nếu kênh ≥1.000 follow | Mỗi ngày 1 bản #23 (15 giây, số ngày đổi) + 1 video chính: chuỗi **"Quà Noel cho người yêu"** (quà cho người đã có hết mọi thứ / quà cho bạn trai ít nói / quà hai đứa cùng dùng / Kẹo chọn quà cho Bi và ngược lại / mở hộp quà thật đang gửi đi, tên khách che). Live: Bi và Kẹo thử size trực tiếp, xem preview thêu trên live, trả lời "size nào". 2 video NK (sổ lãi tuần 5; xưởng kịp không) | "Còn [X] ngày đến hạn 12/12 — sau đó tụi mình không hứa kịp Noel" |
-| Ngày 38–44 | T5 10/12 – T4 16/12 | **12/12 (T7) · hạn Noel toàn quốc** · ngày 40 | 10–11/12: "2 ngày / 1 ngày nữa" (#22 bản chính); **12/12: 3 bản khung 0h/12h/20h** cho Hộp Quà Kỷ Niệm Bi Kẹo 599k + Vòng 149k, video gói đơn trực tiếp; 13–16/12: "Hết hạn toàn quốc — Hà Nội/Sài Gòn còn **hỏa tốc tới 20/12**", POV "đơn Noel cuối cùng của tụi mình", FB khách nhận hàng sớm | 12/12: "hôm nay là ngày cuối để chắc chắn nhận trước Noel" → sau đó: "HN/HCM hỏa tốc tới 20/12" |
+| Ngày 38–44 | T5 10/12 – T4 16/12 | **12/12 (T7) · hạn Noel toàn quốc** · ngày 40 | 10–11/12: "2 ngày / 1 ngày nữa" (#22 bản chính); **12/12: 3 bản khung 0h/12h/20h** cho Hộp Quà Kỷ Niệm Samesies 599k + Vòng 149k, video gói đơn trực tiếp; 13–16/12: "Hết hạn toàn quốc — Hà Nội/Sài Gòn còn **hỏa tốc tới 20/12**", POV "đơn Noel cuối cùng của tụi mình", FB khách nhận hàng sớm | 12/12: "hôm nay là ngày cuối để chắc chắn nhận trước Noel" → sau đó: "HN/HCM hỏa tốc tới 20/12" |
 | Ngày 45–51 | T5 17/12 – T4 23/12 | Hỏa tốc HN/HCM tới 20/12; đỉnh nội dung Noel | 17–20/12: NK "Bi và Kẹo đi giao đơn hỏa tốc tận tay khách" (xin phép quay, che mặt nếu khách muốn), đếm ngược "còn [X] ngày hỏa tốc"; 21–23/12: **POV Noel** — đi xem đèn, "lần đầu/ lần thứ [n] đón Noel chung", "mẹ thấy áo đôi mặc Noel", chụp ảnh Noel bản đầy đủ (#6); mỗi ngày 1 CẬN mở hộp quà thật gửi đi; sổ lãi tuần 7 | Tới 20/12: "HN/HCM hỏa tốc — hôm nay đặt, mai có" · Từ 21/12: không hứa Noel nữa, CTA chuyển sang "quà năm mới / đồ đôi đi chơi Tết, nhận trong 4–7 ngày" |
-| Ngày 52–60 | T5 24/12 – T6 1/1/2027 (chốt sổ T7 2/1) | **Noel 24–25/12 · năm mới 1/1** · mở màn **"đồ đôi đi chơi Tết"** (Tết 2027 là 6/2; đỉnh thật của đồ đôi là tháng 1–2) | 24–25/12: POV "Noel của hai đứa" mặc set rêu – kem, FB khách Noel (clip khách gửi), "cảm ơn [số thật] cặp đã mặc Bi Kẹo mùa này"; 26–30/12: NK **tổng kết 60 ngày** chia 3 phần (tiền: tổng đơn, lãi, còn bao nhiêu · bài học: hook nào thắng, kênh nào lãi · cái sai), thanh lý 6 bộ mẫu quay video (giá vốn, size nào nói thật); 31/12–1/1: "Năm mới. Mặc chung một ngày." + **mở màn "đồ đôi đi chơi Tết"**: set thun/nỉ màu kem – be – rêu cho ảnh Tết, thêu `chữ cái + ngày` hoặc kiểu "tết 27" nhỏ ở tay áo, mở danh sách chờ đợt Tết (giao trước 28 Tết), teaser Valentine 14/2 | "Mẫu thanh lý mỗi size 1 bộ" · "Đồ đôi đi chơi Tết — đặt sớm, nhận trong 4–7 ngày, hạn Tết sẽ công bố 2/1" |
+| Ngày 52–60 | T5 24/12 – T6 1/1/2027 (chốt sổ T7 2/1) | **Noel 24–25/12 · năm mới 1/1** · mở màn **"đồ đôi đi chơi Tết"** (Tết 2027 là 6/2; đỉnh thật của đồ đôi là tháng 1–2) | 24–25/12: POV "Noel của hai đứa" mặc set rêu – kem, FB khách Noel (clip khách gửi), "cảm ơn [số thật] cặp đã mặc Samesies mùa này"; 26–30/12: NK **tổng kết 60 ngày** chia 3 phần (tiền: tổng đơn, lãi, còn bao nhiêu · bài học: hook nào thắng, kênh nào lãi · cái sai), thanh lý 6 bộ mẫu quay video (giá vốn, size nào nói thật); 31/12–1/1: "Năm mới. Mặc chung một ngày." + **mở màn "đồ đôi đi chơi Tết"**: set thun/nỉ màu kem – be – rêu cho ảnh Tết, thêu `chữ cái + ngày` hoặc kiểu "tết 27" nhỏ ở tay áo, mở danh sách chờ đợt Tết (giao trước 28 Tết), teaser Valentine 14/2 | "Mẫu thanh lý mỗi size 1 bộ" · "Đồ đôi đi chơi Tết — đặt sớm, nhận trong 4–7 ngày, hạn Tết sẽ công bố 2/1" |
 
-Hashtag thêm cho giai đoạn này: #quagiangsinh #noel #sale1212 #quatangnguoiyeu #namMoi #dodoitet (cùng bộ cố định #bikeo #aodoi #aodoinamnu #dodoi #docouple).
+Hashtag thêm cho giai đoạn này: #quagiangsinh #noel #sale1212 #quatangnguoiyeu #namMoi #dodoitet (cùng bộ cố định #samesies #aodoi #aodoinamnu #dodoi #docouple).
 
 ---
 
@@ -185,7 +185,7 @@ Hashtag thêm cho giai đoạn này: #quagiangsinh #noel #sale1212 #quatangnguoi
 | T2 9/11 (cổng tuần bán 1) | Mẫu + listing lên; ≥10 đơn; hoàn ≤10%; 5 KOC đã nhận mẫu | Cắt lại video tốt nhất với hook dạng câu hỏi; tăng POV lên 2/3 số video tuần 2; chưa đổi SKU |
 | T2 16/11 (ngày 14) | ≥3 đơn/ngày; nếu <10 đơn lũy kế **và** không video nào >20.000 view | Xoay trục theo kế hoạch 60 ngày: (a) dồn video về 1 SKU duy nhất là Hộp Quà/Vòng với affiliate, (b) đăng vào group Facebook đồ đôi + nhờ bạn bè chia sẻ, (c) **đổi hook từ "đồ đôi" sang "quà kỷ niệm"** (mở đầu bằng ngày kỷ niệm, không bằng áo) |
 | T2 23/11 (cổng tuần bán 3) | ≥4 đơn/ngày, CAC ≤40k | Tắt ads video kém, chỉ giữ 1 video; FB khách 1 video/ngày; dồn 60–70% video cho 1 SKU chủ lực |
-| T2 30/11 (cổng tuần bán 4) | ≥5 đơn/ngày | KOC đợt 2 chỉ chọn kênh đã ra ≥3 đơn; dồn video cho Hộp Quà Kỷ Niệm Bi Kẹo (lãi 176k/đơn) |
+| T2 30/11 (cổng tuần bán 4) | ≥5 đơn/ngày | KOC đợt 2 chỉ chọn kênh đã ra ≥3 đơn; dồn video cho Hộp Quà Kỷ Niệm Samesies (lãi 176k/đơn) |
 | T4 2/12 (ngày 30) | Lãi lũy kế ≥5 triệu | <5 triệu → tắt ads hoàn toàn, chạy thuần video + affiliate; nhịp 2 video/ngày không đổi |
 | T7 12/12 (ngày 40) | ≥8 đơn/ngày; xưởng thêu kịp 3–4 ngày | Không kịp xưởng → đóng nhận đơn áo Noel sớm hơn, chỉ còn Vòng (2–3 ngày) và hỏa tốc HN/HCM |
 | T7 2/1/2027 (chốt sổ) | Sổ Lãi 60 Ngày khớp sao kê | Tổng kết công khai trong video NK cuối, kể cả không đạt 30 triệu |

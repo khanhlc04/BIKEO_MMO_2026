@@ -1,7 +1,7 @@
-# BI KẸO STUDIO — Kế hoạch 60 ngày (3/11/2026 → 2/1/2027) + 15 ngày tiền khởi động (19/10 → 2/11, chi 0 ₫)
+# SAMESIES — Kế hoạch 60 ngày (3/11/2026 → 2/1/2027) + 15 ngày tiền khởi động (19/10 → 2/11, chi 0 ₫)
 
 **Vốn:** 10.000.000 ₫, có từ ngày lương **3/11/2026** · **KPI:** 30.000.000 ₫ lợi nhuận ròng sau 60 ngày · **Chốt sổ:** 2/1/2027
-**Người viết:** AI Founder · **Cặp đôi của thương hiệu:** Bi (bạn) và Kẹo (người yêu), yêu gần, không thú cưng; kênh có sẵn **"bi ơi kẹo đói"** (235 follower, 5.000 like — số do bạn cung cấp 19/10, tôi chưa đọc được kênh).
+**Người viết:** AI Founder · **Cặp đôi của thương hiệu:** Bi (bạn) và Kẹo (người yêu), yêu gần, không thú cưng; kênh TikTok mới **@samesies.studio** (tạo mới, bắt đầu từ 0 follower theo quyết định của bạn).
 
 > Mọi con số lấy từ mô hình `04-finance/mo-hinh-tai-chinh-60-ngay.xlsx` (giả định có nguồn trong sheet GiaDinh) và 5 báo cáo trong `00-research/`. Chưa có đồng doanh thu nào; đây là kế hoạch, không phải kết quả.
 
@@ -13,12 +13,12 @@
 2. **Phí sàn Q4/2026 rất nặng:** TikTok Shop 15% hoa hồng + 6% phí giao dịch + 3.000đ/đơn + 1,5% thuế ≈ 23%; Shopee ≈ 25,5%. Bán trực tiếp (Zalo/Instagram/Facebook, COD qua SPX/GHN) là 0% và doanh thu dưới 1 tỷ/năm được miễn thuế (NĐ 141/2026). **Kênh trực tiếp là kênh lợi nhuận; TikTok là kênh tạo nhu cầu.**
 3. **Cá nhân hoá là thứ bán chạy có bằng chứng** (vòng khắc tên bán 62.155; áo thêu tên By.Duni 8.834 ở 225k/áo), và ngách "ngày kỷ niệm" gần như trống. Khách cá nhân hoá **phải nhắn tin** để gửi tên/ngày, nên tự nhiên dồn về kênh 0% phí.
 4. **Mùa đông 2026–27 dự báo ấm bất thường** (El Niño 96%) → nỉ bông mỏng–vừa và áo thun; không hoodie dày, áo len, áo phao.
-5. **Khoảng giá 300–450k/set thun và 450–550k/set nỉ chưa có thương hiệu nào vừa có nội dung TikTok tốt vừa bán trên sàn.** Đó là chỗ của Bi Kẹo Studio.
+5. **Khoảng giá 300–450k/set thun và 450–550k/set nỉ chưa có thương hiệu nào vừa có nội dung TikTok tốt vừa bán trên sàn.** Đó là chỗ của Samesies.
 6. **Lịch mới tốt hơn lịch cũ:** 60 ngày từ 3/11 ôm trọn 11/11, Black Friday 27/11, 12/12, Noel, năm mới và bước vào tháng 1, tháng đỉnh thật của đồ đôi theo Metric. 15 ngày trước đó là giai đoạn xây traffic trước khi nhập hàng, đúng bài học của Nguyễn Phúc Long (kênh anh ấy lệch tệp nên không bán được).
 
 ## 2. Luận điểm kinh doanh (một câu)
 
-**Bi Kẹo Studio bán quà kỷ niệm tối giản cho cặp đôi Gen Z: áo nỉ/áo thun màu trung tính thêu chữ cái đầu + ngày yêu nhau, kèm vòng tay khắc tên, đóng gói như quà, giao đúng hẹn; nội dung do Bi và Kẹo làm trên kênh "bi ơi kẹo đói", chốt đơn cá nhân hoá qua Zalo/Instagram để giữ biên.**
+**Samesies bán quà kỷ niệm tối giản cho cặp đôi Gen Z: áo nỉ/áo thun màu trung tính thêu chữ cái đầu + ngày yêu nhau, kèm vòng tay khắc tên, đóng gói như quà, giao đúng hẹn; nội dung do Bi và Kẹo làm trên kênh @samesies.studio, chốt đơn cá nhân hoá qua Zalo/Instagram để giữ biên.**
 
 ## 3. Toán học của KPI (từ mô hình)
 
@@ -36,13 +36,13 @@ Ba kịch bản (đơn/ngày theo tuần T1→T9, sheet KichBan):
 
 | Kịch bản | Đơn/ngày | Tổng đơn | Doanh thu | Lợi nhuận ròng | % KPI |
 |---|---|---|---|---|---|
-| Thận trọng | 1·2·2·3·3·4·4·3·3 | 166 | 61,3 tr | **13,2 tr** | 44% |
-| Cơ sở | 1·3·4·5·6·7·8·6·5 | 300 | 110,7 tr | **26,5 tr** | 88% |
+| Thận trọng | 0·1·2·3·3·4·4·3·3 | 152 | 56,1 tr | **11,9 tr** | 40% |
+| Cơ sở | 1·2·3·5·6·7·8·6·5 | 286 | 105,5 tr | **25,1 tr** | 84% |
 | Tăng tốc | 3·5·6·8·10·12·13·9·8 | 494 | 182,3 tr | **45,7 tr** | 152% — đạt |
 
-Dòng tiền kịch bản Cơ sở: số dư thấp nhất 5,1 triệu (tuần 2), không âm; cuối kỳ ~30 triệu tiền mặt chưa kể tiền sàn chưa đối soát (sheet DongTien). **Vốn 10 triệu đủ nếu làm theo đơn và thu cọc 50% với đơn cá nhân hoá.**
+Dòng tiền kịch bản Cơ sở: số dư thấp nhất 6,0 triệu (tuần 2), không âm; cuối kỳ ~29 triệu tiền mặt chưa kể tiền sàn chưa đối soát (sheet DongTien). **Vốn 10 triệu đủ nếu làm theo đơn và thu cọc 50% với đơn cá nhân hoá.**
 
-**Đánh giá thẳng:** kịch bản Cơ sở (mức tôi tin là khả thi với thực thi tốt và có 15 ngày tiền khởi động) ra ~26,5 triệu, thiếu ~3,5 triệu. Cần **một đến hai** trong 4 đòn bẩy sau để chạm 30 triệu (đã tính ở sheet KPI):
+**Đánh giá thẳng:** kịch bản Cơ sở (kênh mới từ 0, tuần 1–2 chậm, 15 ngày tiền khởi động để bù) ra ~25,1 triệu, thiếu ~4,9 triệu. Cần **hai** trong 4 đòn bẩy sau để chạm 30 triệu (đã tính ở sheet KPI):
 
 1. Tỷ trọng kênh trực tiếp 45% → 60% (dời 15 điểm đơn khỏi TikTok 23,3% → bớt ~3,5 điểm % phí) → +~13k/đơn.
 2. TikTok 0% phí giao dịch 60 ngày cho shop mới (kiểm tra trong Seller Center lúc đăng ký, trước 3/11) → +~10k/đơn.
@@ -54,12 +54,12 @@ Cả 4 cùng đạt → ~140k/đơn → chỉ cần ~240 đơn (4/ngày).
 
 | SKU | Giá niêm yết | Giá vốn | Lãi ròng/đơn | Vai trò |
 |---|---|---|---|---|
-| Áo nỉ Bi Kẹo (set 2 áo nỉ bông, thêu/in chữ cái + ngày) | 499.000 | 212.000 | 133.000 | Chủ lực mùa lạnh miền Bắc, 60–70% nguồn lực nội dung |
-| Áo thun Bi Kẹo (set 2 áo cotton 100%) | 349.000 | 156.000 | 68.000 | Miền Nam + khách ngân sách thấp |
-| Vòng Bi Kẹo (cặp vòng khắc tên + hộp + thiệp) | 149.000 | 45.000 | 28.000 | Sản phẩm vào cửa trên TikTok Shop; bán kèm +99k khi mua áo |
-| Hộp Quà Kỷ Niệm Bi Kẹo (áo nỉ + vòng + thiệp viết tay + hộp) | 599.000 | 265.000 | 176.000 | Lợi nhuận cao nhất; đẩy từ 11/11 đến Noel, rồi "quà Tết cho người yêu" |
+| Áo nỉ Samesies (set 2 áo nỉ bông, thêu/in chữ cái + ngày) | 499.000 | 212.000 | 133.000 | Chủ lực mùa lạnh miền Bắc, 60–70% nguồn lực nội dung |
+| Áo thun Samesies (set 2 áo cotton 100%) | 349.000 | 156.000 | 68.000 | Miền Nam + khách ngân sách thấp |
+| Vòng Samesies (cặp vòng khắc tên + hộp + thiệp) | 149.000 | 45.000 | 28.000 | Sản phẩm vào cửa trên TikTok Shop; bán kèm +99k khi mua áo |
+| Hộp Quà Kỷ Niệm Samesies (áo nỉ + vòng + thiệp viết tay + hộp) | 599.000 | 265.000 | 176.000 | Lợi nhuận cao nhất; đẩy từ 11/11 đến Noel, rồi "quà Tết cho người yêu" |
 
-Kênh: **TikTok "bi ơi kẹo đói"** (video + TikTok Shop "Bi Kẹo Studio · Đồ đôi thiết kế" + affiliate) → **Instagram @bikeo.studio + Zalo** (nhận tên/ngày, cọc 50%, chốt đơn 0% phí) → **Shopee** (uy tín, tìm kiếm). Giá bán **bằng nhau mọi kênh**; kênh trực tiếp tặng thêm thiệp viết tay + khắc tên miễn phí.
+Kênh: **TikTok @samesies.studio** (video + TikTok Shop "Samesies · Đồ đôi thiết kế" + affiliate) → **Instagram @samesies.studio + Zalo** (nhận tên/ngày, cọc 50%, chốt đơn 0% phí) → **Shopee** (uy tín, tìm kiếm). Giá bán **bằng nhau mọi kênh**; kênh trực tiếp tặng thêm thiệp viết tay + khắc tên miễn phí.
 
 Chính sách làm vũ khí: giá theo **cặp**; **freeship mọi kênh** (shop chịu ≈16k/đơn, đã tính trong mô hình); làm 3–4 ngày + giao 1–3 ngày (hứa với khách: nhận trong 4–7 ngày); **preview** trước khi in; **đổi size 1 lần miễn phí 15 ngày**; **đặt trước 12/12 chắc chắn nhận trước Noel** (HN/HCM hỏa tốc tới 20/12); bảng size nam/nữ riêng, S–3XL.
 
@@ -84,10 +84,10 @@ Mục tiêu: đến tối 2/11 có **shop đã duyệt, 3 nguồn hàng đã ch�
 
 | Việc | Chi tiết | Kết quả cần có |
 |---|---|---|
-| Kênh | Sửa bio/ảnh "bi ơi kẹo đói"; tạo Instagram @bikeo.studio, Zalo "Bi Kẹo Studio — đồ đôi kỷ niệm", Facebook Page | 4 kênh cùng nhận diện, link chéo |
+| Kênh | Sửa bio/ảnh @samesies.studio; tạo Instagram @samesies.studio, Zalo "Samesies — đồ đôi kỷ niệm", Facebook Page | 4 kênh cùng nhận diện, link chéo |
 | Pháp lý & sàn | Đăng ký TikTok Shop cá nhân (CCCD NFC, tài khoản ngân hàng trùng tên, mã số thuế cá nhân; kiểm tra ưu đãi 0% phí giao dịch 60 ngày) và Shopee (chưa đăng sản phẩm để giữ 30 ngày miễn phí cố định); mở Sapo Express/BigSeller | Shop duyệt xong, chưa tốn ngày ưu đãi nào |
 | Nguồn hàng | Gọi/Zalo 2 xưởng nỉ, 2 xưởng cotton, 1 xưởng in decal, 2 xưởng thêu, 1 tiệm khắc laser (5 câu bắt buộc trong `03-products`); xin bảng size và ảnh phôi | Bảng so sánh, chốt 1 chính + 1 dự phòng; giá thêu/khắc thật thay giả định 25k/10k |
-| Nội dung | 1 video/ngày trên "bi ơi kẹo đói": nhật ký "dựng Bi Kẹo Studio từ 10 triệu, 3/11 mới có lương", mockup Canva, khảo sát màu/giá, test hook; kịch bản trong `05-content` | ≥10 video, ≥1 video >10k view, biết hook nào chạy |
+| Nội dung | 1 video/ngày trên @samesies.studio: nhật ký "dựng Samesies từ 10 triệu, 3/11 mới có lương", mockup Canva, khảo sát màu/giá, test hook; kịch bản trong `05-content` | ≥10 video, ≥1 video >10k view, biết hook nào chạy |
 | Danh sách chờ | Form tên/ngày/size + Zalo; ưu đãi ra mắt cho người đặt trước 3/11: tặng khắc tên + thiệp viết tay (không giảm giá sâu) | ≥20 tên; cọc 50% với ai muốn giữ chỗ (tiền này dùng mua phôi ngày 3/11) |
 | KOC | Lập danh sách 20 creator cặp đôi 5–50K follower, chấm theo tab trưng bày; nhắn 10 người đầu | 5 KOC đồng ý nhận mẫu tuần 3–9/11 |
 
@@ -125,10 +125,10 @@ Làm theo đơn: nhận tên/ngày qua form hoặc chat → gửi preview → c�
 ## 9. Việc chỉ bạn làm được (tôi không thể)
 
 Trước 3/11, chi 0 ₫:
-1. Đăng ký TikTok Shop và Shopee; tạo Instagram @bikeo.studio, Zalo, Facebook Page; kiểm tra bằng tay tên "Bi Kẹo Studio" trên Shopee và Facebook.
+1. Đăng ký TikTok Shop và Shopee; tạo Instagram @samesies.studio, Zalo, Facebook Page; kiểm tra bằng tay tên "Samesies" trên Shopee và Facebook.
 2. Gọi/Zalo các nguồn trong `03-products/` để lấy giá thật, nhất là **thêu tên/ngày và khắc laser** (hai số đang là giả định 25k/áo và 10k/chiếc).
 3. Quay và đăng 1 video/ngày cùng Kẹo theo `05-content/`; mở danh sách chờ.
-4. Gửi tôi link kênh "bi ơi kẹo đói" để tôi đọc số liệu video và chỉnh lịch nội dung theo cái đang chạy tốt.
+4. Tạo kênh TikTok mới @samesies.studio và gửi tôi link sau 7 ngày đăng để tôi đọc số liệu video và chỉnh lịch nội dung theo cái đang chạy tốt.
 
 Từ 3/11:
 5. Chuyển tiền mua mẫu, phôi, bao bì; đóng gói, gửi hàng, trả lời khách.
@@ -138,7 +138,7 @@ Từ 3/11:
 
 | Rủi ro | Đỡ bằng |
 |---|---|
-| Không có view | Kênh có sẵn + hai bạn làm gương mặt; 15 ngày test hook trước khi có hàng; affiliate ngay tuần 1 |
+| Không có view (kênh mới từ 0) | Đăng 1 video/ngày suốt 15 ngày tiền khởi động, hai bạn làm gương mặt, nhật ký khởi nghiệp làm xương sống; affiliate ngay tuần 1; đã hạ kịch bản tuần 1–2 để không ảo tưởng |
 | Phí sàn ăn biên | Dồn đơn cá nhân hoá về Zalo/Instagram; TikTok Shop cho sản phẩm sẵn |
 | Trời ấm | Nỉ mỏng + áo thun; không áo len/hoodie dày; tồn kho ≈ 0 vì làm theo đơn |
 | Hoàn hàng, sai size | Xác nhận trước khi in; bảng size nam/nữ riêng; đổi size 1 lần miễn phí |

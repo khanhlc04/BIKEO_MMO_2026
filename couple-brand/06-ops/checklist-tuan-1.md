@@ -1,8 +1,8 @@
-# Checklist tiền khởi động 19/10 → 2/11 (chi 0 ₫) + Tuần 1 bán hàng 3/11 → 9/11 — Bi Kẹo Studio
+# Checklist tiền khởi động 19/10 → 2/11 (chi 0 ₫) + Tuần 1 bán hàng 3/11 → 9/11 — Samesies
 
 Vốn 10 triệu chỉ về ngày lương **thứ 3 3/11/2026**. Vì vậy 15 ngày đầu (thứ 2 19/10 → thứ 2 2/11) là **tiền khởi động, chi 0 ₫**: gọi xưởng xin giá, mở tài khoản, làm form và mockup, quay video, gom danh sách chờ. Tuần 1 bán hàng (3/11 → 9/11) mới chuyển tiền mua mẫu + bao bì và mở bán. Cửa sổ 60 ngày: 3/11/2026 → 2/1/2027 (`01-strategy/ke-hoach-60-ngay.md`).
 
-Thương hiệu: **Bi Kẹo Studio** (dạng ngắn Bi Kẹo; in hoa BI KẸO STUDIO; Instagram/Shopee @bikeo.studio, dự phòng @bikeostudio; tên shop trên sàn "Bi Kẹo Studio · Đồ đôi thiết kế"). Hai người: **Bi** (chủ shop) và **Kẹo** (người yêu). Kênh TikTok đã có: **"bi ơi kẹo đói"** (235 follower, 5.000 like) — giữ nguyên tên và handle, không mở kênh mới.
+Thương hiệu: **Samesies** (dạng ngắn Samesies; in hoa SAMESIES; Instagram/Shopee @samesies.studio, dự phòng @samesies.vn; tên shop trên sàn "Samesies · Đồ đôi thiết kế"). Hai người: **Bi** (chủ shop) và **Kẹo** (người yêu). Kênh TikTok đã có: **@samesies.studio** (kênh mới, 0 follower) — giữ nguyên tên và handle, không mở kênh mới.
 
 **Mục lục**
 1. Hai giai đoạn, hai luật tiền
@@ -23,8 +23,8 @@ Thương hiệu: **Bi Kẹo Studio** (dạng ngắn Bi Kẹo; in hoa BI KẸO ST
 |---|---|---|
 | **Tiền được chi** | **0 ₫.** Chỉ xin báo giá, không cọc xưởng, không mua mẫu, không chạy ads. Tiền duy nhất được chạm là **tiền cọc của khách danh sách chờ** — vào tài khoản, không tiêu, dùng mua phôi ngày 3/11 (`01-strategy` §6 giai đoạn 0) | Ngay sáng 3/11: mẫu + phôi đợt 1 (2.500.000), thử in/thêu/khắc + tem nhãn (500.000), bao bì 100 bộ (700.000) → **≤3.700.000**; mẫu tặng KOC ≤1.000.000 trong tuần 1–2 (`01-strategy` §5). Luật: không chi quá 40% vốn (4.000.000) trước 20 đơn; phôi mua theo đơn/cọc |
 | **Sổ Lãi** | Cài đặt đã là 3/11/2026 → 2/1/2027; giai đoạn 0 không có dòng chi. Đơn đã cọc trước 3/11 ghi vào Sổ Lãi **ngày 3/11**, ghi chú "danh sách chờ" | Mọi khoản chi ghi trong ngày (Nhập hàng / Bao bì / Vận chuyển / Mẫu cho KOC / Công cụ / Khác) |
-| **Nội dung** | 1 video/ngày trên "bi ơi kẹo đói" từ 19/10: nhật ký "dựng Bi Kẹo Studio từ 10 triệu, 3/11 mới có lương" (`01-strategy` §7; lịch ở `05-content/lich-noi-dung-30-ngay.md` — file này chỉ giữ chỗ giờ) | 1–2 video/ngày với mẫu thật |
-| **Kênh** | Giữ nguyên tên và handle "bi ơi kẹo đói"; chỉ sửa bio/ảnh (`02-brand`: đổi tên kênh chỉ khi shop đã có đơn đều) | — |
+| **Nội dung** | 1 video/ngày trên @samesies.studio từ 19/10: nhật ký "dựng Samesies từ 10 triệu, 3/11 mới có lương" (`01-strategy` §7; lịch ở `05-content/lich-noi-dung-30-ngay.md` — file này chỉ giữ chỗ giờ) | 1–2 video/ngày với mẫu thật |
+| **Kênh** | Giữ nguyên tên và handle @samesies.studio; chỉ sửa bio/ảnh (`02-brand`: đổi tên kênh chỉ khi shop đã có đơn đều) | — |
 | **Xưởng** | Chốt 1 chính + 1 dự phòng cho phôi nỉ, phôi cotton, thêu/in, khắc **trước 3/11**; xin bảng size đo phẳng và ảnh thật | Chuyển tiền 3/11, thêu thử 4/11, QC mẫu 5/11 |
 
 ## 2. Quy ước: Bi và Kẹo
@@ -43,12 +43,12 @@ Mỗi việc chỉ một người chịu trách nhiệm; cột "Kết quả cầ
 
 | # | Việc | Ai | Mất bao lâu | Kết quả cần có |
 |---|---|---|---|---|
-| 1 | **Sửa kênh "bi ơi kẹo đói"** (không tạo kênh mới, không đổi tên/handle): avatar = wordmark `bi kẹo` + hai viên kẹo (`02-brand/wordmark-bi-keo-studio.svg`); bio "Bi & Kẹo · đồ đôi kỷ niệm by Bi Kẹo Studio · in chữ cái + ngày yêu nhau"; xem lại 5 video view cao nhất để giữ giọng khán giả đã quen | Bi | 30' | Ảnh màn hình profile; ghi chú "giọng kênh" 3 dòng |
-| 2 | **Tạo kênh phụ**: Instagram **@bikeo.studio** (dự phòng @bikeostudio), Facebook Page **"Bi Kẹo Studio"**, Zalo bán hàng **"Bi Kẹo Studio — đồ đôi kỷ niệm"** (SĐT riêng cho shop nếu có; SĐT này dùng cho mọi vận đơn và sàn). **Kiểm tra bằng tay** tên "Bi Kẹo Studio"/"bikeo.studio" trên Shopee và Facebook (TikTok/Instagram đã kiểm tra trống ngày 19/10, `02-brand`) | Bi | 45' | 3 kênh cùng avatar/bio, link chéo; tên Shopee/Facebook còn trống hay phải dùng dự phòng |
-| 3 | **Đăng ký TikTok Shop cá nhân gắn vào tài khoản "bi ơi kẹo đói"**, tên shop **"Bi Kẹo Studio · Đồ đôi thiết kế"**: CCCD gắn chip + điện thoại có NFC (xác thực NFC bắt buộc với người bán mới từ 01/07/2026), tài khoản ngân hàng **trùng tên** CCCD, không cần giấy phép kinh doanh; nộp hồ sơ. Vào Seller Center > Cài đặt > Thông tin thuế **khai mã số thuế cá nhân**. Vào Trung tâm phát triển kiểm tra ưu đãi **"0% phí giao dịch 60 ngày"** (đợt 01/07–30/09/2026 đã hết; đợt Q4 chưa có thông báo — `_raw_fees_unit_economics` §1.3) | Bi | 60' + chờ duyệt | Ảnh màn hình "đang xét duyệt"; điều kiện ưu đãi 0% ghi lại (có/không, cần mấy sản phẩm, hạn) |
+| 1 | **Sửa kênh @samesies.studio** (không tạo kênh mới, không đổi tên/handle): avatar = wordmark `đồng điệu` + hai viên kẹo (`02-brand/wordmark-samesies.svg`); bio "Bi & Kẹo · đồ đôi kỷ niệm by Samesies · in chữ cái + ngày yêu nhau"; xem lại 5 video view cao nhất để giữ giọng khán giả đã quen | Bi | 30' | Ảnh màn hình profile; ghi chú "giọng kênh" 3 dòng |
+| 2 | **Tạo kênh phụ**: Instagram **@samesies.studio** (dự phòng @samesies.vn), Facebook Page **"Samesies"**, Zalo bán hàng **"Samesies — đồ đôi kỷ niệm"** (SĐT riêng cho shop nếu có; SĐT này dùng cho mọi vận đơn và sàn). **Kiểm tra bằng tay** tên "Samesies"/"samesies.studio" trên Shopee và Facebook (TikTok/Instagram đã kiểm tra trống ngày 19/10, `02-brand`) | Bi | 45' | 3 kênh cùng avatar/bio, link chéo; tên Shopee/Facebook còn trống hay phải dùng dự phòng |
+| 3 | **Đăng ký TikTok Shop cá nhân gắn vào tài khoản @samesies.studio**, tên shop **"Samesies · Đồ đôi thiết kế"**: CCCD gắn chip + điện thoại có NFC (xác thực NFC bắt buộc với người bán mới từ 01/07/2026), tài khoản ngân hàng **trùng tên** CCCD, không cần giấy phép kinh doanh; nộp hồ sơ. Vào Seller Center > Cài đặt > Thông tin thuế **khai mã số thuế cá nhân**. Vào Trung tâm phát triển kiểm tra ưu đãi **"0% phí giao dịch 60 ngày"** (đợt 01/07–30/09/2026 đã hết; đợt Q4 chưa có thông báo — `_raw_fees_unit_economics` §1.3) | Bi | 60' + chờ duyệt | Ảnh màn hình "đang xét duyệt"; điều kiện ưu đãi 0% ghi lại (có/không, cần mấy sản phẩm, hạn) |
 | 4 | Nếu chưa nhớ MST cá nhân: tra trên ứng dụng thuế điện tử của cơ quan thuế (ngoài phạm vi nghiên cứu) | Bi | 15' | MST trong ghi chú chung |
 | 5 | **Gọi/Zalo xưởng phôi — chỉ xin báo giá, bảng size, ảnh; không đặt** (kịch bản 6A): nỉ bông Phương Yến (HCM, 75–87k, MOQ 1–3), Gấu Xám (HN, 65–69k, MOQ 3), THIDU (HCM, 68–75k, MOQ 7); cotton 100% AKUBA (HCM, 35–45k, MOQ 10), Hà Đinh (HN, 55–65k, MOQ 10) (`03-products` §3) | Kẹo | 15'/xưởng ≈ 75' | Bảng mục 7 điền ≥4 dòng; ảnh thật + bảng size đo phẳng qua Zalo |
-| 6 | **Đăng video #1** (nhật ký: "19/10 — chốt tên Bi Kẹo Studio, 3/11 mới có lương") | Kẹo | 30' | Link; ghi view sau 24h vào Bảng đơn tab "Video" |
+| 6 | **Đăng video #1** (nhật ký: "19/10 — chốt tên Samesies, 3/11 mới có lương") | Kẹo | 30' | Link; ghi view sau 24h vào Bảng đơn tab "Video" |
 
 ### Thứ 3, 20/10 — Ngày 2: xưởng thêu/in/khắc, bao bì, Shopee, Sapo, form (≈ 6 giờ)
 
@@ -57,9 +57,9 @@ Mỗi việc chỉ một người chịu trách nhiệm; cột "Kết quả cầ
 | 1 | **Gọi 2 xưởng thêu vi tính lẻ** gần nhà ("thêu vi tính lẻ", "thêu tên áo") + 1 xưởng in decal nhỏ (ThunViet HN: 23k/áo 1–5 áo → 15k 31–50, **áo tối màu +30k**; hoặc Thiên Phước HCM: logo nhỏ 10–20k, lấy trong ngày) — kịch bản 6B. Thêu/khắc **chưa có nguồn công khai**, đang giả định 25k/áo và 10k/chiếc — đây là 2 con số quan trọng nhất cần xin | Kẹo | 15'/nơi ≈ 60' | 2 báo giá thêu + 1 báo giá in, **bằng chữ trên Zalo**; ảnh chữ thêu nhỏ xưởng từng làm |
 | 2 | **Gọi 1–2 tiệm khắc laser** ("khắc laser lấy ngay") — kịch bản 6C | Kẹo | 20' | Báo giá/chiếc theo 12/60/200, thời gian |
 | 3 | **Hỏi bao bì — chỉ xin báo giá và file kích thước**: túi kraft HOSO (≈2.300đ/túi cho 100, 24–48h; hỏi ưu đãi in miễn phí 50–100 túi đầu cho khách mới), sticker Azoka ø4 cm 1.300đ (HN) hoặc In Siêu Tốc 150k/100 (HCM), thiệp In Thủ Đô 1.000đ (MOQ 100), túi niêm phong 25×35 (41–47k/kg ≈ 95–120 túi), hộp quà Noel Khánh Băng (15.500–16.000đ) (`_raw_sourcing` E) — kịch bản 6D | Kẹo | 40' | Giá + file khuôn in + thời gian giao; ngày đặt = 3/11 |
-| 4 | **Đăng ký Shopee** tên shop "Bi Kẹo Studio · Đồ đôi thiết kế" (username bikeo.studio): thông tin, địa chỉ lấy hàng, tài khoản ngân hàng, cài đặt vận chuyển. **Chưa đăng sản phẩm**: miễn phí cố định 30 ngày tính từ ngày đăng sản phẩm đầu tiên (`_raw_fees` §2) → đăng sản phẩm đầu vào thứ 6 6/11 để 30 ngày phủ 11/11 và Black Friday 27/11 | Bi | 45' | Shop xác minh xong, 0 sản phẩm |
+| 4 | **Đăng ký Shopee** tên shop "Samesies · Đồ đôi thiết kế" (username samesies.studio): thông tin, địa chỉ lấy hàng, tài khoản ngân hàng, cài đặt vận chuyển. **Chưa đăng sản phẩm**: miễn phí cố định 30 ngày tính từ ngày đăng sản phẩm đầu tiên (`_raw_fees` §2) → đăng sản phẩm đầu vào thứ 6 6/11 để 30 ngày phủ 11/11 và Black Friday 27/11 | Bi | 45' | Shop xác minh xong, 0 sản phẩm |
 | 5 | **Mở Sapo Express** (SPX khách mới từ 10/2026: 14.000đ 0–0,5 kg, 15.000đ 0,5–1 kg mọi tuyến; COD miễn phí ≤20 triệu/đơn; hoàn miễn phí; giao lại 3 lần) + **BigSeller** (miễn phí ≤1.500 đơn/tháng, 3 gian hàng): thêm địa chỉ lấy hàng, tài khoản nhận COD; hỏi giờ lấy hàng cuối ngày và lấy thứ 7/CN không | Bi | 40' | 2 tài khoản hoạt động; 1 vận đơn nháp đã tạo rồi hủy; giờ cut-off ghi lại |
-| 6 | **Lập Google Form** "BI KẸO STUDIO — thông tin để làm đồ của hai đứa" (trường theo `sop-van-hanh.md` mục a) + ô "Tôi muốn vào danh sách chờ"; rút gọn link; đặt vào bio 4 kênh; phản hồi đổ về sheet "Bảng đơn" | Kẹo | 45' | Form chạy thử; sheet có dòng thử |
+| 6 | **Lập Google Form** "SAMESIES — thông tin để làm đồ của hai đứa" (trường theo `sop-van-hanh.md` mục a) + ô "Tôi muốn vào danh sách chờ"; rút gọn link; đặt vào bio 4 kênh; phản hồi đổ về sheet "Bảng đơn" | Kẹo | 45' | Form chạy thử; sheet có dòng thử |
 | 7 | Đăng video #2 | Kẹo | 30' | Link |
 
 ### Thứ 4, 21/10 — Ngày 3: chốt nguồn, file thiết kế, mockup (≈ 6 giờ)
@@ -76,7 +76,7 @@ Mỗi việc chỉ một người chịu trách nhiệm; cột "Kết quả cầ
 
 | # | Việc | Ai | Mất bao lâu | Kết quả cần có |
 |---|---|---|---|---|
-| 1 | **Soạn text listing** cho 5 sản phẩm (Áo nỉ Bi Kẹo, Áo thun Bi Kẹo, Vòng Bi Kẹo, Hộp Quà Kỷ Niệm Bi Kẹo + Nhẫn/Móc khoá cặp): "set 2 áo / giá theo cặp" trong tên, mô tả, 5 dòng chính sách (`02-brand`), bảng size nam/nữ S–3XL (tạm — thay bằng số đo xưởng), 4 màu, giá ra mắt 459k/321k (`03-products` §1); có sẵn ở `05-content/listing-va-caption.md` thì dùng | Kẹo | 60' | File text dán được ngay 6/11 |
+| 1 | **Soạn text listing** cho 5 sản phẩm (Áo nỉ Samesies, Áo thun Samesies, Vòng Samesies, Hộp Quà Kỷ Niệm Samesies + Nhẫn/Móc khoá cặp): "set 2 áo / giá theo cặp" trong tên, mô tả, 5 dòng chính sách (`02-brand`), bảng size nam/nữ S–3XL (tạm — thay bằng số đo xưởng), 4 màu, giá ra mắt 459k/321k (`03-products` §1); có sẵn ở `05-content/listing-va-caption.md` thì dùng | Kẹo | 60' | File text dán được ngay 6/11 |
 | 2 | **Đăng chính sách công khai** (`chinh-sach-va-nhan-su.md` §1–2) lên bio/highlight IG, tin ghim Zalo, Giới thiệu Facebook | Bi | 45' | 3 nơi cùng nội dung |
 | 3 | **Mẫu câu chat**: A1–A5, B1–B2, C1–C3, F0 (`sop-van-hanh.md`) lưu ghi chú điện thoại cả hai; tin tự động ngoài giờ trên Zalo/IG; mẫu TikTok/Shopee chat cài khi shop duyệt | Kẹo | 60' | Dán được mẫu câu trong 5 giây |
 | 4 | **Kiểm Sổ Lãi**: cài đặt 3/11/2026 → 2/1/2027, vốn 10.000.000, mục tiêu 30.000.000; kênh và phí sàn (TikTok 15% + 6% + 3.000đ, Shopee 16,5% + 6% + 5.700đ, trực tiếp 0%); 4 sản phẩm với giá vốn; không ghi khoản chi nào | Bi | 20' | Ảnh màn hình cài đặt |
@@ -95,7 +95,7 @@ Mỗi việc chỉ một người chịu trách nhiệm; cột "Kết quả cầ
 | # | Việc | Ai | Mất bao lâu | Kết quả cần có |
 |---|---|---|---|---|
 | 1 | **Quay lô 1 (8–10 video, chi 0 ₫)**: nhật ký gọi 8 xưởng, chọn tên, mockup, khảo sát màu/giá, test 3 hook (9:00–12:00, kịch bản `05-content/kich-ban-video.md`) | Bi + Kẹo | 180' | 8–10 video thô; dựng 3; đăng #6 |
-| 2 | **Mở danh sách chờ**: bài trên "bi ơi kẹo đói" + IG + Zalo + nhắn 20 bạn bè; ưu đãi cho người đặt trước 3/11: giá ra mắt 459k/321k + **tặng khắc tên (vòng) + thiệp viết tay** (không giảm giá sâu — `01-strategy` §6); ai muốn giữ chỗ → cọc 50% (C1, ghi rõ "gửi hàng từ 7–11/11") | Kẹo | 60' | Bài đăng + ≥5 tên đầu tiên trong form |
+| 2 | **Mở danh sách chờ**: bài trên @samesies.studio + IG + Zalo + nhắn 20 bạn bè; ưu đãi cho người đặt trước 3/11: giá ra mắt 459k/321k + **tặng khắc tên (vòng) + thiệp viết tay** (không giảm giá sâu — `01-strategy` §6); ai muốn giữ chỗ → cọc 50% (C1, ghi rõ "gửi hàng từ 7–11/11") | Kẹo | 60' | Bài đăng + ≥5 tên đầu tiên trong form |
 | 3 | Luyện viết thiệp 5 cái/người; chọn "người viết thiệp" | Bi + Kẹo | 20' | 5 thiệp mẫu |
 
 ### Chủ nhật, 25/10 — Ngày 7: họp #0 (≈ 1 giờ)
@@ -124,7 +124,7 @@ Mỗi ngày trong tuần này vẫn **1 video** (đến 2/11 đủ ≥15 video �
 
 | Điều kiện | Đạt? | Nếu không đạt |
 |---|---|---|
-| Shop đã duyệt (TikTok Shop "Bi Kẹo Studio · Đồ đôi thiết kế" + Shopee) | | Vẫn mua mẫu 3/11; bán qua Zalo/IG trước; nộp lại hồ sơ, kiểm tra ngày nào cũng được |
+| Shop đã duyệt (TikTok Shop "Samesies · Đồ đôi thiết kế" + Shopee) | | Vẫn mua mẫu 3/11; bán qua Zalo/IG trước; nộp lại hồ sơ, kiểm tra ngày nào cũng được |
 | 3 nguồn hàng đã chốt giá (phôi, thêu/in, khắc), có dự phòng | | Không chuyển tiền cho nguồn chưa có báo giá bằng chữ; gọi lại ngày 2/11 |
 | ≥10 video đã đăng | | Đăng bù 2 video/ngày từ 3/11 |
 | ≥1 video >10.000 view | | Đổi hook theo `05-content`; không bật ads khi chưa có video tự nhiên tốt |
@@ -206,7 +206,7 @@ Quy tắc chung: gọi xong **ghi ngay vào bảng mục 7**; nhắn Zalo "anh/c
 
 ### 6A. Xưởng phôi (nỉ bông / cotton 100%)
 
-> "Em chào anh/chị, em là [tên] bên Bi Kẹo Studio — đồ đôi cá nhân hoá, làm theo đơn nên lấy lẻ đều 2 lần/tuần, dịp Noel tăng. Em hỏi nhanh vài câu được không ạ?"
+> "Em chào anh/chị, em là [tên] bên Samesies — đồ đôi cá nhân hoá, làm theo đơn nên lấy lẻ đều 2 lần/tuần, dịp Noel tăng. Em hỏi nhanh vài câu được không ạ?"
 
 Câu hỏi **bắt buộc** (thiếu một câu là chưa gọi xong):
 1. **Định lượng vải (gsm)** của nỉ bông / cotton? Nỉ mỏng–vừa hay dày? (Mùa đông 2026–27 dự báo ấm → cần nỉ mỏng–vừa, `01-strategy` §1.)
@@ -314,4 +314,4 @@ Chưa gồm: phôi cho lô 9/11 (vốn lưu động 3.000.000, đối ứng bằ
 | **≥10 đơn trong tuần 3–9/11 (gồm danh sách chờ)** | Đơn "Đang giao" trong Sổ Lãi có ngày 3–9/11 (đã cọc hoặc đã thanh toán sàn) | | Tuần 2 dồn vào 11/11 (Vòng flash + upsell), bạn bè vòng 2, 5 creator; chưa bật ads; chuẩn bị kiểm luật xoay trục ngày 14 (16/11) |
 | **Hoàn ≤10%** | (Hoàn + hủy sau gửi) ÷ đơn đã gửi — tuần 1 thường chưa có đơn giao xong; ghi "chưa đo" | | Nếu đã có hoàn: F0 cho 100% đơn COD |
 
-Bàn giao sang tuần 2 (10–16/11, cổng: ≥3 đơn/ngày, CAC ≤40k): 11/11 flash khung 0h/12h/20h cho Vòng Bi Kẹo + upsell Hộp Quà; 1–2 video/ngày; ads 100k/ngày chỉ cho video đã có view tự nhiên tốt; lô thứ 5 12/11 theo `sop-van-hanh.md`.
+Bàn giao sang tuần 2 (10–16/11, cổng: ≥3 đơn/ngày, CAC ≤40k): 11/11 flash khung 0h/12h/20h cho Vòng Samesies + upsell Hộp Quà; 1–2 video/ngày; ads 100k/ngày chỉ cho video đã có view tự nhiên tốt; lô thứ 5 12/11 theo `sop-van-hanh.md`.
