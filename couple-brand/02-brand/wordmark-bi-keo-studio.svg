@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 200" width="640" height="200" role="img" aria-label="bi kẹo studio">
+  <rect width="640" height="200" fill="#F3EFE8"/>
+  <circle cx="86" cy="96" r="34" fill="#C9375A"/>
+  <circle cx="146" cy="96" r="34" fill="#F3EFE8" stroke="#171A21" stroke-width="6"/>
+  <text x="208" y="122" font-family="'Be Vietnam Pro','Nunito','Helvetica Neue',Arial,sans-serif" font-size="88" font-weight="700" fill="#171A21" letter-spacing="-2">bi kẹo</text>
+  <text x="212" y="156" font-family="'Be Vietnam Pro','Nunito','Helvetica Neue',Arial,sans-serif" font-size="20" font-weight="600" fill="#C9375A" letter-spacing="7">STUDIO</text>
+  <text x="212" y="184" font-family="'Be Vietnam Pro','Nunito','Helvetica Neue',Arial,sans-serif" font-size="15" fill="#5E6673" letter-spacing="4">MẶC CHUNG MỘT NGÀY</text>
+</svg>
